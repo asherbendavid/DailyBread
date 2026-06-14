@@ -43,8 +43,7 @@ Built as a personal devotional tool and learning project in Kotlin and Jetpack C
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/asherbendavid/daily-bread.git
-   cd daily-bread
+   git clone https://github.com/asherbendavid/DailyBread.git
    ```
 
 2. **Open in Android Studio**
