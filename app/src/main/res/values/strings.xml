@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Daily Bread</string>
+    <string name="title_activity_setting_screen">SettingScreen</string>
+</resources>

@@ -1,0 +1,4418 @@
+﻿{
+  "01-01": {
+    "morning": {
+      "youVersion": "GEN.1.1",
+      "mySword": "Gen_1_1_2_25",
+      "info": "Gen 1-2"
+    },
+    "evening": {
+      "youVersion": "MAT.1.1",
+      "mySword": "Mat_1_1_25",
+      "info": "Mat 1"
+    }
+  },
+  "01-02": {
+    "morning": {
+      "youVersion": "GEN.3.1",
+      "mySword": "Gen_3_1_5_32",
+      "info": "Gen 3-5"
+    },
+    "evening": {
+      "youVersion": "MAT.2.1",
+      "mySword": "Mat_2_1_23",
+      "info": "Mat 2"
+    }
+  },
+  "01-03": {
+    "morning": {
+      "youVersion": "GEN.6.1",
+      "mySword": "Gen_6_1_8_22",
+      "info": "Gen 6-8"
+    },
+    "evening": {
+      "youVersion": "MAT.3.1",
+      "mySword": "Mat_3_1_17",
+      "info": "Mat 3"
+    }
+  },
+  "01-04": {
+    "morning": {
+      "youVersion": "GEN.9.1",
+      "mySword": "Gen_9_1_11_32",
+      "info": "Gen 9-11"
+    },
+    "evening": {
+      "youVersion": "MAT.4.1",
+      "mySword": "Mat_4_1_25",
+      "info": "Mat 4"
+    }
+  },
+  "01-05": {
+    "morning": {
+      "youVersion": "GEN.12.1",
+      "mySword": "Gen_12_1_14_24",
+      "info": "Gen 12-14"
+    },
+    "evening": {
+      "youVersion": "MAT.5.1",
+      "mySword": "Mat_5_1_26",
+      "info": "Mat 5:1-26"
+    }
+  },
+  "01-06": {
+    "morning": {
+      "youVersion": "GEN.15.1",
+      "mySword": "Gen_15_1_17_27",
+      "info": "Gen 15-17"
+    },
+    "evening": {
+      "youVersion": "MAT.5.27",
+      "mySword": "Mat_5_27_48",
+      "info": "Mat 5:27-48"
+    }
+  },
+  "01-07": {
+    "morning": {
+      "youVersion": "GEN.18.1",
+      "mySword": "Gen_18_1_19_38",
+      "info": "Gen 18-19"
+    },
+    "evening": {
+      "youVersion": "MAT.6.1",
+      "mySword": "Mat_6_1_34",
+      "info": "Mat 6"
+    }
+  },
+  "01-08": {
+    "morning": {
+      "youVersion": "GEN.20.1",
+      "mySword": "Gen_20_1_22_24",
+      "info": "Gen 20-22"
+    },
+    "evening": {
+      "youVersion": "MAT.7.1",
+      "mySword": "Mat_7_1_29",
+      "info": "Mat 7"
+    }
+  },
+  "01-09": {
+    "morning": {
+      "youVersion": "GEN.23.1",
+      "mySword": "Gen_23_1_24_67",
+      "info": "Gen 23-24"
+    },
+    "evening": {
+      "youVersion": "MAT.8.1",
+      "mySword": "Mat_8_1_34",
+      "info": "Mat 8"
+    }
+  },
+  "01-10": {
+    "morning": {
+      "youVersion": "GEN.25.1",
+      "mySword": "Gen_25_1_26_35",
+      "info": "Gen 25-26"
+    },
+    "evening": {
+      "youVersion": "MAT.9.1",
+      "mySword": "Mat_9_1_17",
+      "info": "Mat 9:1-17"
+    }
+  },
+  "01-11": {
+    "morning": {
+      "youVersion": "GEN.27.1",
+      "mySword": "Gen_27_1_28_22",
+      "info": "Gen 27-28"
+    },
+    "evening": {
+      "youVersion": "MAT.9.18",
+      "mySword": "Mat_9_18_38",
+      "info": "Mat 9:18-38"
+    }
+  },
+  "01-12": {
+    "morning": {
+      "youVersion": "GEN.29.1",
+      "mySword": "Gen_29_1_30_43",
+      "info": "Gen 29-30"
+    },
+    "evening": {
+      "youVersion": "MAT.10.1",
+      "mySword": "Mat_10_1_23",
+      "info": "Mat 10:1-23"
+    }
+  },
+  "01-13": {
+    "morning": {
+      "youVersion": "GEN.31.1",
+      "mySword": "Gen_31_1_32_32",
+      "info": "Gen 31-32"
+    },
+    "evening": {
+      "youVersion": "MAT.10.24",
+      "mySword": "Mat_10_24_42",
+      "info": "Mat 10:24-42"
+    }
+  },
+  "01-14": {
+    "morning": {
+      "youVersion": "GEN.33.1",
+      "mySword": "Gen_33_1_35_29",
+      "info": "Gen 33-35"
+    },
+    "evening": {
+      "youVersion": "MAT.11.1",
+      "mySword": "Mat_11_1_30",
+      "info": "Mat 11"
+    }
+  },
+  "01-15": {
+    "morning": {
+      "youVersion": "GEN.36.1",
+      "mySword": "Gen_36_1_37_36",
+      "info": "Gen 36-37"
+    },
+    "evening": {
+      "youVersion": "MAT.12.1",
+      "mySword": "Mat_12_1_21",
+      "info": "Mat 12:1-21"
+    }
+  },
+  "01-16": {
+    "morning": {
+      "youVersion": "GEN.38.1",
+      "mySword": "Gen_38_1_40_23",
+      "info": "Gen 38-40"
+    },
+    "evening": {
+      "youVersion": "MAT.12.22",
+      "mySword": "Mat_12_22_50",
+      "info": "Mat 12:22-50"
+    }
+  },
+  "01-17": {
+    "morning": {
+      "youVersion": "GEN.41.1",
+      "mySword": "Gen_41_1_57",
+      "info": "Gen 41"
+    },
+    "evening": {
+      "youVersion": "MAT.13.1",
+      "mySword": "Mat_13_1_32",
+      "info": "Mat 13:1-32"
+    }
+  },
+  "01-18": {
+    "morning": {
+      "youVersion": "GEN.42.1",
+      "mySword": "Gen_42_1_43_34",
+      "info": "Gen 42-43"
+    },
+    "evening": {
+      "youVersion": "MAT.13.33",
+      "mySword": "Mat_13_33_58",
+      "info": "Mat 13:33-58"
+    }
+  },
+  "01-19": {
+    "morning": {
+      "youVersion": "GEN.44.1",
+      "mySword": "Gen_44_1_45_28",
+      "info": "Gen 44-45"
+    },
+    "evening": {
+      "youVersion": "MAT.14.1",
+      "mySword": "Mat_14_1_21",
+      "info": "Mat 14:1-21"
+    }
+  },
+  "01-20": {
+    "morning": {
+      "youVersion": "GEN.46.1",
+      "mySword": "Gen_46_1_48_22",
+      "info": "Gen 46-48"
+    },
+    "evening": {
+      "youVersion": "MAT.14.22",
+      "mySword": "Mat_14_22_36",
+      "info": "Mat 14:22-36"
+    }
+  },
+  "01-21": {
+    "morning": {
+      "youVersion": "GEN.49.1",
+      "mySword": "Gen_49_1_50_26",
+      "info": "Gen 49-50"
+    },
+    "evening": {
+      "youVersion": "MAT.15.1",
+      "mySword": "Mat_15_1_20",
+      "info": "Mat 15:1-20"
+    }
+  },
+  "01-22": {
+    "morning": {
+      "youVersion": "EXO.1.1",
+      "mySword": "Exo_1_1_3_22",
+      "info": "Exo 1-3"
+    },
+    "evening": {
+      "youVersion": "MAT.15.21",
+      "mySword": "Mat_15_21_39",
+      "info": "Mat 15:21-39"
+    }
+  },
+  "01-23": {
+    "morning": {
+      "youVersion": "EXO.4.1",
+      "mySword": "Exo_4_1_6_30",
+      "info": "Exo 4-6"
+    },
+    "evening": {
+      "youVersion": "MAT.16.1",
+      "mySword": "Mat_16_1_28",
+      "info": "Mat 16"
+    }
+  },
+  "01-24": {
+    "morning": {
+      "youVersion": "EXO.7.1",
+      "mySword": "Exo_7_1_8_32",
+      "info": "Exo 7-8"
+    },
+    "evening": {
+      "youVersion": "MAT.17.1",
+      "mySword": "Mat_17_1_27",
+      "info": "Mat 17"
+    }
+  },
+  "01-25": {
+    "morning": {
+      "youVersion": "EXO.9.1",
+      "mySword": "Exo_9_1_10_29",
+      "info": "Exo 9-10"
+    },
+    "evening": {
+      "youVersion": "MAT.18.1",
+      "mySword": "Mat_18_1_20",
+      "info": "Mat 18:1-20"
+    }
+  },
+  "01-26": {
+    "morning": {
+      "youVersion": "EXO.11.1",
+      "mySword": "Exo_11_1_12_51",
+      "info": "Exo 11-12"
+    },
+    "evening": {
+      "youVersion": "MAT.18.21",
+      "mySword": "Mat_18_21_35",
+      "info": "Mat 18:21-35"
+    }
+  },
+  "01-27": {
+    "morning": {
+      "youVersion": "EXO.13.1",
+      "mySword": "Exo_13_1_15_27",
+      "info": "Exo 13-15"
+    },
+    "evening": {
+      "youVersion": "MAT.19.1",
+      "mySword": "Mat_19_1_15",
+      "info": "Mat 19:1-15"
+    }
+  },
+  "01-28": {
+    "morning": {
+      "youVersion": "EXO.16.1",
+      "mySword": "Exo_16_1_18_27",
+      "info": "Exo 16-18"
+    },
+    "evening": {
+      "youVersion": "MAT.19.16",
+      "mySword": "Mat_19_16_30",
+      "info": "Mat 19:16-30"
+    }
+  },
+  "01-29": {
+    "morning": {
+      "youVersion": "EXO.19.1",
+      "mySword": "Exo_19_1_21_36",
+      "info": "Exo 19-21"
+    },
+    "evening": {
+      "youVersion": "MAT.20.1",
+      "mySword": "Mat_20_1_16",
+      "info": "Mat 20:1-16"
+    }
+  },
+  "01-30": {
+    "morning": {
+      "youVersion": "EXO.22.1",
+      "mySword": "Exo_22_1_24_18",
+      "info": "Exo 22-24"
+    },
+    "evening": {
+      "youVersion": "MAT.20.17",
+      "mySword": "Mat_20_17_34",
+      "info": "Mat 20:17-34"
+    }
+  },
+  "01-31": {
+    "morning": {
+      "youVersion": "EXO.25.1",
+      "mySword": "Exo_25_1_26_37",
+      "info": "Exo 25-26"
+    },
+    "evening": {
+      "youVersion": "MAT.21.1",
+      "mySword": "Mat_21_1_22",
+      "info": "Mat 21:1-22"
+    }
+  },
+  "02-01": {
+    "morning": {
+      "youVersion": "EXO.27.1",
+      "mySword": "Exo_27_1_28_43",
+      "info": "Exo 27-28"
+    },
+    "evening": {
+      "youVersion": "MAT.21.23",
+      "mySword": "Mat_21_23_46",
+      "info": "Mat 21:23-46"
+    }
+  },
+  "02-02": {
+    "morning": {
+      "youVersion": "EXO.29.1",
+      "mySword": "Exo_29_1_30_38",
+      "info": "Exo 29-30"
+    },
+    "evening": {
+      "youVersion": "MAT.22.1",
+      "mySword": "Mat_22_1_22",
+      "info": "Mat 22:1-22"
+    }
+  },
+  "02-03": {
+    "morning": {
+      "youVersion": "EXO.31.1",
+      "mySword": "Exo_31_1_33_23",
+      "info": "Exo 31-33"
+    },
+    "evening": {
+      "youVersion": "MAT.22.23",
+      "mySword": "Mat_22_23_46",
+      "info": "Mat 22:23-46"
+    }
+  },
+  "02-04": {
+    "morning": {
+      "youVersion": "EXO.34.1",
+      "mySword": "Exo_34_1_36_38",
+      "info": "Exo 34-36"
+    },
+    "evening": {
+      "youVersion": "MAT.23.1",
+      "mySword": "Mat_23_1_22",
+      "info": "Mat 23:1-22"
+    }
+  },
+  "02-05": {
+    "morning": {
+      "youVersion": "EXO.37.1",
+      "mySword": "Exo_37_1_38_31",
+      "info": "Exo 37-38"
+    },
+    "evening": {
+      "youVersion": "MAT.23.23",
+      "mySword": "Mat_23_23_39",
+      "info": "Mat 23:23-39"
+    }
+  },
+  "02-06": {
+    "morning": {
+      "youVersion": "EXO.39.1",
+      "mySword": "Exo_39_1_40_38",
+      "info": "Exo 39-40"
+    },
+    "evening": {
+      "youVersion": "MAT.24.1",
+      "mySword": "Mat_24_1_22",
+      "info": "Mat 24:1-22"
+    }
+  },
+  "02-07": {
+    "morning": {
+      "youVersion": "LEV.1.1",
+      "mySword": "Lev_1_1_3_17",
+      "info": "Lev 1-3"
+    },
+    "evening": {
+      "youVersion": "MAT.24.23",
+      "mySword": "Mat_24_23_51",
+      "info": "Mat 24:23-51"
+    }
+  },
+  "02-08": {
+    "morning": {
+      "youVersion": "LEV.4.1",
+      "mySword": "Lev_4_1_6_30",
+      "info": "Lev 4-6"
+    },
+    "evening": {
+      "youVersion": "MAT.25.1",
+      "mySword": "Mat_25_1_30",
+      "info": "Mat 25:1-30"
+    }
+  },
+  "02-09": {
+    "morning": {
+      "youVersion": "LEV.7.1",
+      "mySword": "Lev_7_1_9_24",
+      "info": "Lev 7-9"
+    },
+    "evening": {
+      "youVersion": "MAT.25.31",
+      "mySword": "Mat_25_31_46",
+      "info": "Mat 25:31-46"
+    }
+  },
+  "02-10": {
+    "morning": {
+      "youVersion": "LEV.10.1",
+      "mySword": "Lev_10_1_12_8",
+      "info": "Lev 10-12"
+    },
+    "evening": {
+      "youVersion": "MAT.26.1",
+      "mySword": "Mat_26_1_19",
+      "info": "Mat 26:1-19"
+    }
+  },
+  "02-11": {
+    "morning": {
+      "youVersion": "LEV.13.1",
+      "mySword": "Lev_13_1_59",
+      "info": "Lev 13"
+    },
+    "evening": {
+      "youVersion": "MAT.26.20",
+      "mySword": "Mat_26_20_54",
+      "info": "Mat 26:20-54"
+    }
+  },
+  "02-12": {
+    "morning": {
+      "youVersion": "LEV.14.1",
+      "mySword": "Lev_14_1_57",
+      "info": "Lev 14"
+    },
+    "evening": {
+      "youVersion": "MAT.26.55",
+      "mySword": "Mat_26_55_75",
+      "info": "Mat 26:55-75"
+    }
+  },
+  "02-13": {
+    "morning": {
+      "youVersion": "LEV.15.1",
+      "mySword": "Lev_15_1_17_16",
+      "info": "Lev 15-17"
+    },
+    "evening": {
+      "youVersion": "MAT.27.1",
+      "mySword": "Mat_27_1_31",
+      "info": "Mat 27:1-31"
+    }
+  },
+  "02-14": {
+    "morning": {
+      "youVersion": "LEV.18.1",
+      "mySword": "Lev_18_1_19_37",
+      "info": "Lev 18-19"
+    },
+    "evening": {
+      "youVersion": "MAT.27.32",
+      "mySword": "Mat_27_32_66",
+      "info": "Mat 27:32-66"
+    }
+  },
+  "02-15": {
+    "morning": {
+      "youVersion": "LEV.20.1",
+      "mySword": "Lev_20_1_21_24",
+      "info": "Lev 20-21"
+    },
+    "evening": {
+      "youVersion": "MAT.28.1",
+      "mySword": "Mat_28_1_20",
+      "info": "Mat 28"
+    }
+  },
+  "02-16": {
+    "morning": {
+      "youVersion": "LEV.22.1",
+      "mySword": "Lev_22_1_23_44",
+      "info": "Lev 22-23"
+    },
+    "evening": {
+      "youVersion": "MRK.1.1",
+      "mySword": "Mar_1_1_22",
+      "info": "Mar 1:1-22"
+    }
+  },
+  "02-17": {
+    "morning": {
+      "youVersion": "LEV.24.1",
+      "mySword": "Lev_24_1_25_55",
+      "info": "Lev 24-25"
+    },
+    "evening": {
+      "youVersion": "MRK.1.23",
+      "mySword": "Mar_1_23_45",
+      "info": "Mar 1:23-45"
+    }
+  },
+  "02-18": {
+    "morning": {
+      "youVersion": "LEV.26.1",
+      "mySword": "Lev_26_1_27_34",
+      "info": "Lev 26-27"
+    },
+    "evening": {
+      "youVersion": "MRK.2.1",
+      "mySword": "Mar_2_1_28",
+      "info": "Mar 2"
+    }
+  },
+  "02-19": {
+    "morning": {
+      "youVersion": "NUM.1.1",
+      "mySword": "Num_1_1_2_34",
+      "info": "Num 1-2"
+    },
+    "evening": {
+      "youVersion": "MRK.3.1",
+      "mySword": "Mar_3_1_21",
+      "info": "Mar 3:1-21"
+    }
+  },
+  "02-20": {
+    "morning": {
+      "youVersion": "NUM.3.1",
+      "mySword": "Num_3_1_4_49",
+      "info": "Num 3-4"
+    },
+    "evening": {
+      "youVersion": "MRK.3.22",
+      "mySword": "Mar_3_22_35",
+      "info": "Mar 3:22-35"
+    }
+  },
+  "02-21": {
+    "morning": {
+      "youVersion": "NUM.5.1",
+      "mySword": "Num_5_1_6_27",
+      "info": "Num 5-6"
+    },
+    "evening": {
+      "youVersion": "MRK.4.1",
+      "mySword": "Mar_4_1_20",
+      "info": "Mar 4:1-20"
+    }
+  },
+  "02-22": {
+    "morning": {
+      "youVersion": "NUM.7.1",
+      "mySword": "Num_7_1_89",
+      "info": "Num 7"
+    },
+    "evening": {
+      "youVersion": "MRK.4.21",
+      "mySword": "Mar_4_21_41",
+      "info": "Mar 4:21-41"
+    }
+  },
+  "02-23": {
+    "morning": {
+      "youVersion": "NUM.8.1",
+      "mySword": "Num_8_1_10_36",
+      "info": "Num 8-10"
+    },
+    "evening": {
+      "youVersion": "MRK.5.1",
+      "mySword": "Mar_5_1_20",
+      "info": "Mar 5:1-20"
+    }
+  },
+  "02-24": {
+    "morning": {
+      "youVersion": "NUM.11.1",
+      "mySword": "Num_11_1_13_33",
+      "info": "Num 11-13"
+    },
+    "evening": {
+      "youVersion": "MRK.5.21",
+      "mySword": "Mar_5_21_43",
+      "info": "Mar 5:21-43"
+    }
+  },
+  "02-25": {
+    "morning": {
+      "youVersion": "NUM.14.1",
+      "mySword": "Num_14_1_15_41",
+      "info": "Num 14-15"
+    },
+    "evening": {
+      "youVersion": "MRK.6.1",
+      "mySword": "Mar_6_1_32",
+      "info": "Mar 6:1-32"
+    }
+  },
+  "02-26": {
+    "morning": {
+      "youVersion": "NUM.16.1",
+      "mySword": "Num_16_1_17_13",
+      "info": "Num 16-17"
+    },
+    "evening": {
+      "youVersion": "MRK.6.33",
+      "mySword": "Mar_6_33_56",
+      "info": "Mar 6:33-56"
+    }
+  },
+  "02-27": {
+    "morning": {
+      "youVersion": "NUM.18.1",
+      "mySword": "Num_18_1_20_29",
+      "info": "Num 18-20"
+    },
+    "evening": {
+      "youVersion": "MRK.7.1",
+      "mySword": "Mar_7_1_13",
+      "info": "Mar 7:1-13"
+    }
+  },
+  "02-28N": {
+    "morning": {
+      "youVersion": "NUM.21.1",
+      "mySword": "Num_21_1_24_25",
+      "info": "Num 21-24"
+    },
+    "evening": {
+      "youVersion": "MRK.7.14",
+      "mySword": "Mar_7_14_37",
+      "info": "Mar 7:14-37"
+    }
+  },
+  "03-01N": {
+    "morning": {
+      "youVersion": "NUM.25.1",
+      "mySword": "Num_25_1_27_23",
+      "info": "Num 25-27"
+    },
+    "evening": {
+      "youVersion": "MRK.8.1",
+      "mySword": "Mar_8_1_38",
+      "info": "Mar 8:1-38"
+    }
+  },
+  "02-28L": {
+    "morning": {
+      "youVersion": "NUM.21.1",
+      "mySword": "Num_21_1_22_41",
+      "info": "Num 21-22"
+    },
+    "evening": {
+      "youVersion": "MRK.7.14",
+      "mySword": "Mar_7_14_37",
+      "info": "Mar 7"
+    }
+  },
+  "02-29": {
+    "morning": {
+      "youVersion": "NUM.23.1",
+      "mySword": "Num_23_1_25_18",
+      "info": "Num 23-25"
+    },
+    "evening": {
+      "youVersion": "MRK.8.1",
+      "mySword": "Mar_8_1_21",
+      "info": "Mar 8:1-21"
+    }
+  },
+  "03-01L": {
+    "morning": {
+      "youVersion": "NUM.26.1",
+      "mySword": "Num_26_1_27_23",
+      "info": "Num 26-27"
+    },
+    "evening": {
+      "youVersion": "MRK.8.22",
+      "mySword": "Mar_8_22_38",
+      "info": "Mar 8:22-38"
+    }
+  },
+  "03-02": {
+    "morning": {
+      "youVersion": "NUM.28.1",
+      "mySword": "Num_28_1_29_40",
+      "info": "Num 28-29"
+    },
+    "evening": {
+      "youVersion": "MRK.9.1",
+      "mySword": "Mar_9_1_29",
+      "info": "Mar 9:1-29"
+    }
+  },
+  "03-03": {
+    "morning": {
+      "youVersion": "NUM.30.1",
+      "mySword": "Num_30_1_31_54",
+      "info": "Num 30-31"
+    },
+    "evening": {
+      "youVersion": "MRK.9.30",
+      "mySword": "Mar_9_30_50",
+      "info": "Mar 9:30-50"
+    }
+  },
+  "03-04": {
+    "morning": {
+      "youVersion": "NUM.32.1",
+      "mySword": "Num_32_1_33_56",
+      "info": "Num 32-33"
+    },
+    "evening": {
+      "youVersion": "MRK.10.1",
+      "mySword": "Mar_10_1_31",
+      "info": "Mar 10:1-31"
+    }
+  },
+  "03-05": {
+    "morning": {
+      "youVersion": "NUM.34.1",
+      "mySword": "Num_34_1_36_13",
+      "info": "Num 34-36"
+    },
+    "evening": {
+      "youVersion": "MRK.10.32",
+      "mySword": "Mar_10_32_52",
+      "info": "Mar 10:32-52"
+    }
+  },
+  "03-06": {
+    "morning": {
+      "youVersion": "DEU.1.1",
+      "mySword": "Deu_1_1_2_37",
+      "info": "Deu 1-2"
+    },
+    "evening": {
+      "youVersion": "MRK.11.1",
+      "mySword": "Mar_11_1_19",
+      "info": "Mar 11:1-19"
+    }
+  },
+  "03-07": {
+    "morning": {
+      "youVersion": "DEU.3.1",
+      "mySword": "Deu_3_1_4_49",
+      "info": "Deu 3-4"
+    },
+    "evening": {
+      "youVersion": "MRK.11.20",
+      "mySword": "Mar_11_20_33",
+      "info": "Mar 11:20-33"
+    }
+  },
+  "03-08": {
+    "morning": {
+      "youVersion": "DEU.5.1",
+      "mySword": "Deu_5_1_7_26",
+      "info": "Deu 5-7"
+    },
+    "evening": {
+      "youVersion": "MRK.12.1",
+      "mySword": "Mar_12_1_27",
+      "info": "Mar 12:1-27"
+    }
+  },
+  "03-09": {
+    "morning": {
+      "youVersion": "DEU.8.1",
+      "mySword": "Deu_8_1_10_22",
+      "info": "Deu 8-10"
+    },
+    "evening": {
+      "youVersion": "MRK.12.28",
+      "mySword": "Mar_12_28_44",
+      "info": "Mar 12:28-44"
+    }
+  },
+  "03-10": {
+    "morning": {
+      "youVersion": "DEU.11.1",
+      "mySword": "Deu_11_1_13_18",
+      "info": "Deu 11-13"
+    },
+    "evening": {
+      "youVersion": "MRK.13.1",
+      "mySword": "Mar_13_1_13",
+      "info": "Mar 13:1-13"
+    }
+  },
+  "03-11": {
+    "morning": {
+      "youVersion": "DEU.14.1",
+      "mySword": "Deu_14_1_16_22",
+      "info": "Deu 14-16"
+    },
+    "evening": {
+      "youVersion": "MRK.13.14",
+      "mySword": "Mar_13_14_37",
+      "info": "Mar 13:14-37"
+    }
+  },
+  "03-12": {
+    "morning": {
+      "youVersion": "DEU.17.1",
+      "mySword": "Deu_17_1_19_21",
+      "info": "Deu 17-19"
+    },
+    "evening": {
+      "youVersion": "MRK.14.1",
+      "mySword": "Mar_14_1_25",
+      "info": "Mar 14:1-25"
+    }
+  },
+  "03-13": {
+    "morning": {
+      "youVersion": "DEU.20.1",
+      "mySword": "Deu_20_1_22_30",
+      "info": "Deu 20-22"
+    },
+    "evening": {
+      "youVersion": "MRK.14.26",
+      "mySword": "Mar_14_26_50",
+      "info": "Mar 14:26-50"
+    }
+  },
+  "03-14": {
+    "morning": {
+      "youVersion": "DEU.23.1",
+      "mySword": "Deu_23_1_25_19",
+      "info": "Deu 23-25"
+    },
+    "evening": {
+      "youVersion": "MRK.14.51",
+      "mySword": "Mar_14_51_72",
+      "info": "Mar 14:51-72"
+    }
+  },
+  "03-15": {
+    "morning": {
+      "youVersion": "DEU.26.1",
+      "mySword": "Deu_26_1_27_26",
+      "info": "Deu 26-27"
+    },
+    "evening": {
+      "youVersion": "MRK.15.1",
+      "mySword": "Mar_15_1_26",
+      "info": "Mar 15:1-26"
+    }
+  },
+  "03-16": {
+    "morning": {
+      "youVersion": "DEU.28.1",
+      "mySword": "Deu_28_1_68",
+      "info": "Deu 28"
+    },
+    "evening": {
+      "youVersion": "MRK.15.27",
+      "mySword": "Mar_15_27_47",
+      "info": "Mar 15:27-47"
+    }
+  },
+  "03-17": {
+    "morning": {
+      "youVersion": "DEU.29.1",
+      "mySword": "Deu_29_1_30_20",
+      "info": "Deu 29-30"
+    },
+    "evening": {
+      "youVersion": "MRK.16.1",
+      "mySword": "Mar_16_1_20",
+      "info": "Mar 16"
+    }
+  },
+  "03-18": {
+    "morning": {
+      "youVersion": "DEU.31.1",
+      "mySword": "Deu_31_1_32_52",
+      "info": "Deu 31-32"
+    },
+    "evening": {
+      "youVersion": "LUK.1.1",
+      "mySword": "Luk_1_1_23",
+      "info": "Luk 1:1-23"
+    }
+  },
+  "03-19": {
+    "morning": {
+      "youVersion": "DEU.33.1",
+      "mySword": "Deu_33_1_34_12",
+      "info": "Deu 33-34"
+    },
+    "evening": {
+      "youVersion": "LUK.1.24",
+      "mySword": "Luk_1_24_56",
+      "info": "Luk 1:24-56"
+    }
+  },
+  "03-20": {
+    "morning": {
+      "youVersion": "JOS.1.1",
+      "mySword": "Jos_1_1_3_17",
+      "info": "Jos 1-3"
+    },
+    "evening": {
+      "youVersion": "LUK.1.57",
+      "mySword": "Luk_1_57_80",
+      "info": "Luk 1:57-80"
+    }
+  },
+  "03-21": {
+    "morning": {
+      "youVersion": "JOS.4.1",
+      "mySword": "Jos_4_1_6_27",
+      "info": "Jos 4-6"
+    },
+    "evening": {
+      "youVersion": "LUK.2.1",
+      "mySword": "Luk_2_1_24",
+      "info": "Luk 2:1-24"
+    }
+  },
+  "03-22": {
+    "morning": {
+      "youVersion": "JOS.7.1",
+      "mySword": "Jos_7_1_8_35",
+      "info": "Jos 7-8"
+    },
+    "evening": {
+      "youVersion": "LUK.2.25",
+      "mySword": "Luk_2_25_52",
+      "info": "Luk 2:25-52"
+    }
+  },
+  "03-23": {
+    "morning": {
+      "youVersion": "JOS.9.1",
+      "mySword": "Jos_9_1_10_43",
+      "info": "Jos 9-10"
+    },
+    "evening": {
+      "youVersion": "LUK.3.1",
+      "mySword": "Luk_3_1_38",
+      "info": "Luk 3"
+    }
+  },
+  "03-24": {
+    "morning": {
+      "youVersion": "JOS.11.1",
+      "mySword": "Jos_11_1_13_33",
+      "info": "Jos 11-13"
+    },
+    "evening": {
+      "youVersion": "LUK.4.1",
+      "mySword": "Luk_4_1_32",
+      "info": "Luk 4:1-32"
+    }
+  },
+  "03-25": {
+    "morning": {
+      "youVersion": "JOS.14.1",
+      "mySword": "Jos_14_1_15_63",
+      "info": "Jos 14-15"
+    },
+    "evening": {
+      "youVersion": "LUK.4.33",
+      "mySword": "Luk_4_33_44",
+      "info": "Luk 4:33-44"
+    }
+  },
+  "03-26": {
+    "morning": {
+      "youVersion": "JOS.16.1",
+      "mySword": "Jos_16_1_18_28",
+      "info": "Jos 16-18"
+    },
+    "evening": {
+      "youVersion": "LUK.5.1",
+      "mySword": "Luk_5_1_16",
+      "info": "Luk 5:1-16"
+    }
+  },
+  "03-27": {
+    "morning": {
+      "youVersion": "JOS.19.1",
+      "mySword": "Jos_19_1_20_9",
+      "info": "Jos 19-20"
+    },
+    "evening": {
+      "youVersion": "LUK.5.17",
+      "mySword": "Luk_5_17_39",
+      "info": "Luk 5:17-39"
+    }
+  },
+  "03-28": {
+    "morning": {
+      "youVersion": "JOS.21.1",
+      "mySword": "Jos_21_1_22_34",
+      "info": "Jos 21-22"
+    },
+    "evening": {
+      "youVersion": "LUK.6.1",
+      "mySword": "Luk_6_1_26",
+      "info": "Luk 6:1-26"
+    }
+  },
+  "03-29": {
+    "morning": {
+      "youVersion": "JOS.23.1",
+      "mySword": "Jos_23_1_24_33",
+      "info": "Jos 23-24"
+    },
+    "evening": {
+      "youVersion": "LUK.6.27",
+      "mySword": "Luk_6_27_49",
+      "info": "Luk 6:27-49"
+    }
+  },
+  "03-30": {
+    "morning": {
+      "youVersion": "JDG.1.1",
+      "mySword": "Jdg_1_1_2_23",
+      "info": "Jdg 1-2"
+    },
+    "evening": {
+      "youVersion": "LUK.7.1",
+      "mySword": "Luk_7_1_30",
+      "info": "Luk 7:1-30"
+    }
+  },
+  "03-31": {
+    "morning": {
+      "youVersion": "JDG.3.1",
+      "mySword": "Jdg_3_1_5_31",
+      "info": "Jdg 3-5"
+    },
+    "evening": {
+      "youVersion": "LUK.7.31",
+      "mySword": "Luk_7_31_50",
+      "info": "Luk 7:31-50"
+    }
+  },
+  "04-01": {
+    "morning": {
+      "youVersion": "JDG.6.1",
+      "mySword": "Jdg_6_1_7_25",
+      "info": "Jdg 6-7"
+    },
+    "evening": {
+      "youVersion": "LUK.8.1",
+      "mySword": "Luk_8_1_21",
+      "info": "Luk 8:1-21"
+    }
+  },
+  "04-02": {
+    "morning": {
+      "youVersion": "JDG.8.1",
+      "mySword": "Jdg_8_1_9_57",
+      "info": "Jdg 8-9"
+    },
+    "evening": {
+      "youVersion": "LUK.8.22",
+      "mySword": "Luk_8_22_56",
+      "info": "Luk 8:22-56"
+    }
+  },
+  "04-03": {
+    "morning": {
+      "youVersion": "JDG.10.1",
+      "mySword": "Jdg_10_1_11_40",
+      "info": "Jdg 10-11"
+    },
+    "evening": {
+      "youVersion": "LUK.9.1",
+      "mySword": "Luk_9_1_36",
+      "info": "Luk 9:1-36"
+    }
+  },
+  "04-04": {
+    "morning": {
+      "youVersion": "JDG.12.1",
+      "mySword": "Jdg_12_1_14_20",
+      "info": "Jdg 12-14"
+    },
+    "evening": {
+      "youVersion": "LUK.9.37",
+      "mySword": "Luk_9_37_62",
+      "info": "Luk 9:37-62"
+    }
+  },
+  "04-05": {
+    "morning": {
+      "youVersion": "JDG.15.1",
+      "mySword": "Jdg_15_1_17_13",
+      "info": "Jdg 15-17"
+    },
+    "evening": {
+      "youVersion": "LUK.10.1",
+      "mySword": "Luk_10_1_24",
+      "info": "Luk 10:1-24"
+    }
+  },
+  "04-06": {
+    "morning": {
+      "youVersion": "JDG.18.1",
+      "mySword": "Jdg_18_1_19_30",
+      "info": "Jdg 18-19"
+    },
+    "evening": {
+      "youVersion": "LUK.10.25",
+      "mySword": "Luk_10_25_42",
+      "info": "Luk 10:25-42"
+    }
+  },
+  "04-07": {
+    "morning": {
+      "youVersion": "JDG.20.1",
+      "mySword": "Jdg_20_1_21_25",
+      "info": "Jdg 20-21"
+    },
+    "evening": {
+      "youVersion": "LUK.11.1",
+      "mySword": "Luk_11_1_28",
+      "info": "Luk 11:1-28"
+    }
+  },
+  "04-08": {
+    "morning": {
+      "youVersion": "RUT.1.1",
+      "mySword": "Rut_1_1_4_22",
+      "info": "Rut"
+    },
+    "evening": {
+      "youVersion": "LUK.11.29",
+      "mySword": "Luk_11_29_54",
+      "info": "Luk 11:29-54"
+    }
+  },
+  "04-09": {
+    "morning": {
+      "youVersion": "1SA.1.1",
+      "mySword": "1Sa_1_1_3_21",
+      "info": "1Sa 1-3"
+    },
+    "evening": {
+      "youVersion": "LUK.12.1",
+      "mySword": "Luk_12_1_34",
+      "info": "Luk 12:1-34"
+    }
+  },
+  "04-10": {
+    "morning": {
+      "youVersion": "1SA.4.1",
+      "mySword": "1Sa_4_1_6_21",
+      "info": "1Sa 4-6"
+    },
+    "evening": {
+      "youVersion": "LUK.12.35",
+      "mySword": "Luk_12_35_59",
+      "info": "Luk 12:35-59"
+    }
+  },
+  "04-11": {
+    "morning": {
+      "youVersion": "1SA.7.1",
+      "mySword": "1Sa_7_1_9_27",
+      "info": "1Sa 7-9"
+    },
+    "evening": {
+      "youVersion": "LUK.13.1",
+      "mySword": "Luk_13_1_21",
+      "info": "Luk 13:1-21"
+    }
+  },
+  "04-12": {
+    "morning": {
+      "youVersion": "1SA.10.1",
+      "mySword": "1Sa_10_1_12_25",
+      "info": "1Sa 10-12"
+    },
+    "evening": {
+      "youVersion": "LUK.13.22",
+      "mySword": "Luk_13_22_35",
+      "info": "Luk 13:22-35"
+    }
+  },
+  "04-13": {
+    "morning": {
+      "youVersion": "1SA.13.1",
+      "mySword": "1Sa_13_1_14_52",
+      "info": "1Sa 13-14"
+    },
+    "evening": {
+      "youVersion": "LUK.14.1",
+      "mySword": "Luk_14_1_24",
+      "info": "Luk 14:1-24"
+    }
+  },
+  "04-14": {
+    "morning": {
+      "youVersion": "1SA.15.1",
+      "mySword": "1Sa_15_1_16_23",
+      "info": "1Sa 15-16"
+    },
+    "evening": {
+      "youVersion": "LUK.14.25",
+      "mySword": "Luk_14_25_35",
+      "info": "Luk 14:25-35"
+    }
+  },
+  "04-15": {
+    "morning": {
+      "youVersion": "1SA.17.1",
+      "mySword": "1Sa_17_1_18_30",
+      "info": "1Sa 17-18"
+    },
+    "evening": {
+      "youVersion": "LUK.15.1",
+      "mySword": "Luk_15_1_10",
+      "info": "Luk 15:1-10"
+    }
+  },
+  "04-16": {
+    "morning": {
+      "youVersion": "1SA.19.1",
+      "mySword": "1Sa_19_1_21_15",
+      "info": "1Sa 19-21"
+    },
+    "evening": {
+      "youVersion": "LUK.15.11",
+      "mySword": "Luk_15_11_32",
+      "info": "Luk 15:11-32"
+    }
+  },
+  "04-17": {
+    "morning": {
+      "youVersion": "1SA.22.1",
+      "mySword": "1Sa_22_1_24_22",
+      "info": "1Sa 22-24"
+    },
+    "evening": {
+      "youVersion": "LUK.16.1",
+      "mySword": "Luk_16_1_18",
+      "info": "Luk 16:1-18"
+    }
+  },
+  "04-18": {
+    "morning": {
+      "youVersion": "1SA.25.1",
+      "mySword": "1Sa_25_1_26_25",
+      "info": "1Sa 25-26"
+    },
+    "evening": {
+      "youVersion": "LUK.16.19",
+      "mySword": "Luk_16_19_31",
+      "info": "Luk 16:19-31"
+    }
+  },
+  "04-19": {
+    "morning": {
+      "youVersion": "1SA.27.1",
+      "mySword": "1Sa_27_1_29_11",
+      "info": "1Sa 27-29"
+    },
+    "evening": {
+      "youVersion": "LUK.17.1",
+      "mySword": "Luk_17_1_19",
+      "info": "Luk 17:1-19"
+    }
+  },
+  "04-20": {
+    "morning": {
+      "youVersion": "1SA.30.1",
+      "mySword": "1Sa_30_1_31_13",
+      "info": "1Sa 30-31"
+    },
+    "evening": {
+      "youVersion": "LUK.17.20",
+      "mySword": "Luk_17_20_37",
+      "info": "Luk 17:20-37"
+    }
+  },
+  "04-21": {
+    "morning": {
+      "youVersion": "2SA.1.1",
+      "mySword": "2Sa_1_1_3_39",
+      "info": "2Sa 1-3"
+    },
+    "evening": {
+      "youVersion": "LUK.18.1",
+      "mySword": "Luk_18_1_17",
+      "info": "Luk 18:1-17"
+    }
+  },
+  "04-22": {
+    "morning": {
+      "youVersion": "2SA.4.1",
+      "mySword": "2Sa_4_1_6_23",
+      "info": "2Sa 4-6"
+    },
+    "evening": {
+      "youVersion": "LUK.18.18",
+      "mySword": "Luk_18_18_43",
+      "info": "Luk 18:18-43"
+    }
+  },
+  "04-23": {
+    "morning": {
+      "youVersion": "2SA.7.1",
+      "mySword": "2Sa_7_1_9_13",
+      "info": "2Sa 7-9"
+    },
+    "evening": {
+      "youVersion": "LUK.19.1",
+      "mySword": "Luk_19_1_28",
+      "info": "Luk 19:1-28"
+    }
+  },
+  "04-24": {
+    "morning": {
+      "youVersion": "2SA.10.1",
+      "mySword": "2Sa_10_1_12_31",
+      "info": "2Sa 10-12"
+    },
+    "evening": {
+      "youVersion": "LUK.19.29",
+      "mySword": "Luk_19_29_48",
+      "info": "Luk 19:29-48"
+    }
+  },
+  "04-25": {
+    "morning": {
+      "youVersion": "2SA.13.1",
+      "mySword": "2Sa_13_1_14_33",
+      "info": "2Sa 13-14"
+    },
+    "evening": {
+      "youVersion": "LUK.20.1",
+      "mySword": "Luk_20_1_26",
+      "info": "Luk 20:1-26"
+    }
+  },
+  "04-26": {
+    "morning": {
+      "youVersion": "2SA.15.1",
+      "mySword": "2Sa_15_1_16_23",
+      "info": "2Sa 15-16"
+    },
+    "evening": {
+      "youVersion": "LUK.20.27",
+      "mySword": "Luk_20_27_47",
+      "info": "Luk 20:27-47"
+    }
+  },
+  "04-27": {
+    "morning": {
+      "youVersion": "2SA.17.1",
+      "mySword": "2Sa_17_1_18_33",
+      "info": "2Sa 17-18"
+    },
+    "evening": {
+      "youVersion": "LUK.21.1",
+      "mySword": "Luk_21_1_19",
+      "info": "Luk 21:1-19"
+    }
+  },
+  "04-28": {
+    "morning": {
+      "youVersion": "2SA.19.1",
+      "mySword": "2Sa_19_1_20_26",
+      "info": "2Sa 19-20"
+    },
+    "evening": {
+      "youVersion": "LUK.21.20",
+      "mySword": "Luk_21_20_38",
+      "info": "Luk 21:20-38"
+    }
+  },
+  "04-29": {
+    "morning": {
+      "youVersion": "2SA.21.1",
+      "mySword": "2Sa_21_1_22_51",
+      "info": "2Sa 21-22"
+    },
+    "evening": {
+      "youVersion": "LUK.22.1",
+      "mySword": "Luk_22_1_30",
+      "info": "Luk 22:1-30"
+    }
+  },
+  "04-30": {
+    "morning": {
+      "youVersion": "2SA.23.1",
+      "mySword": "2Sa_23_1_24_25",
+      "info": "2Sa 23-24"
+    },
+    "evening": {
+      "youVersion": "LUK.22.31",
+      "mySword": "Luk_22_31_53",
+      "info": "Luk 22:31-53"
+    }
+  },
+  "05-01": {
+    "morning": {
+      "youVersion": "1KI.1.1",
+      "mySword": "1Ki_1_1_2_46",
+      "info": "1Ki 1-2"
+    },
+    "evening": {
+      "youVersion": "LUK.22.54",
+      "mySword": "Luk_22_54_71",
+      "info": "Luk 22:54-71"
+    }
+  },
+  "05-02": {
+    "morning": {
+      "youVersion": "1KI.3.1",
+      "mySword": "1Ki_3_1_5_18",
+      "info": "1Ki 3-5"
+    },
+    "evening": {
+      "youVersion": "LUK.23.1",
+      "mySword": "Luk_23_1_26",
+      "info": "Luk 23:1-26"
+    }
+  },
+  "05-03": {
+    "morning": {
+      "youVersion": "1KI.6.1",
+      "mySword": "1Ki_6_1_7_51",
+      "info": "1Ki 6-7"
+    },
+    "evening": {
+      "youVersion": "LUK.23.27",
+      "mySword": "Luk_23_27_38",
+      "info": "Luk 23:27-38"
+    }
+  },
+  "05-04": {
+    "morning": {
+      "youVersion": "1KI.8.1",
+      "mySword": "1Ki_8_1_9_28",
+      "info": "1Ki 8-9"
+    },
+    "evening": {
+      "youVersion": "LUK.23.39",
+      "mySword": "Luk_23_39_56",
+      "info": "Luk 23:39-56"
+    }
+  },
+  "05-05": {
+    "morning": {
+      "youVersion": "1KI.10.1",
+      "mySword": "1Ki_10_1_11_43",
+      "info": "1Ki 10-11"
+    },
+    "evening": {
+      "youVersion": "LUK.24.1",
+      "mySword": "Luk_24_1_35",
+      "info": "Luk 24:1-35"
+    }
+  },
+  "05-06": {
+    "morning": {
+      "youVersion": "1KI.12.1",
+      "mySword": "1Ki_12_1_13_34",
+      "info": "1Ki 12-13"
+    },
+    "evening": {
+      "youVersion": "LUK.24.36",
+      "mySword": "Luk_24_36_53",
+      "info": "Luk 24:36-53"
+    }
+  },
+  "05-07": {
+    "morning": {
+      "youVersion": "1KI.14.1",
+      "mySword": "1Ki_14_1_15_34",
+      "info": "1Ki 14-15"
+    },
+    "evening": {
+      "youVersion": "JOH.1.1",
+      "mySword": "Joh_1_1_28",
+      "info": "Joh 1:1-28"
+    }
+  },
+  "05-08": {
+    "morning": {
+      "youVersion": "1KI.16.1",
+      "mySword": "1Ki_16_1_18_46",
+      "info": "1Ki 16-18"
+    },
+    "evening": {
+      "youVersion": "JOH.1.29",
+      "mySword": "Joh_1_29_51",
+      "info": "Joh 1:29-51"
+    }
+  },
+  "05-09": {
+    "morning": {
+      "youVersion": "1KI.19.1",
+      "mySword": "1Ki_19_1_20_43",
+      "info": "1Ki 19-20"
+    },
+    "evening": {
+      "youVersion": "JOH.2.1",
+      "mySword": "Joh_2_1_25",
+      "info": "Joh 2"
+    }
+  },
+  "05-10": {
+    "morning": {
+      "youVersion": "1KI.21.1",
+      "mySword": "1Ki_21_1_22_53",
+      "info": "1Ki 21-22"
+    },
+    "evening": {
+      "youVersion": "JOH.3.1",
+      "mySword": "Joh_3_1_21",
+      "info": "Joh 3:1-21"
+    }
+  },
+  "05-11": {
+    "morning": {
+      "youVersion": "2KI.1.1",
+      "mySword": "2Ki_1_1_3_27",
+      "info": "2Ki 1-3"
+    },
+    "evening": {
+      "youVersion": "JOH.3.22",
+      "mySword": "Joh_3_22_36",
+      "info": "Joh 3:22-36"
+    }
+  },
+  "05-12": {
+    "morning": {
+      "youVersion": "2KI.4.1",
+      "mySword": "2Ki_4_1_5_27",
+      "info": "2Ki 4-5"
+    },
+    "evening": {
+      "youVersion": "JOH.4.1",
+      "mySword": "Joh_4_1_30",
+      "info": "Joh 4:1-30"
+    }
+  },
+  "05-13": {
+    "morning": {
+      "youVersion": "2KI.6.1",
+      "mySword": "2Ki_6_1_8_29",
+      "info": "2Ki 6-8"
+    },
+    "evening": {
+      "youVersion": "JOH.4.31",
+      "mySword": "Joh_4_31_54",
+      "info": "Joh 4:31-54"
+    }
+  },
+  "05-14": {
+    "morning": {
+      "youVersion": "2KI.9.1",
+      "mySword": "2Ki_9_1_11_21",
+      "info": "2Ki 9-11"
+    },
+    "evening": {
+      "youVersion": "JOH.5.1",
+      "mySword": "Joh_5_1_24",
+      "info": "Joh 5:1-24"
+    }
+  },
+  "05-15": {
+    "morning": {
+      "youVersion": "2KI.12.1",
+      "mySword": "2Ki_12_1_14_29",
+      "info": "2Ki 12-14"
+    },
+    "evening": {
+      "youVersion": "JOH.5.25",
+      "mySword": "Joh_5_25_47",
+      "info": "Joh 5:25-47"
+    }
+  },
+  "05-16": {
+    "morning": {
+      "youVersion": "2KI.15.1",
+      "mySword": "2Ki_15_1_17_41",
+      "info": "2Ki 15-17"
+    },
+    "evening": {
+      "youVersion": "JOH.6.1",
+      "mySword": "Joh_6_1_21",
+      "info": "Joh 6:1-21"
+    }
+  },
+  "05-17": {
+    "morning": {
+      "youVersion": "2KI.18.1",
+      "mySword": "2Ki_18_1_19_37",
+      "info": "2Ki 18-19"
+    },
+    "evening": {
+      "youVersion": "JOH.6.22",
+      "mySword": "Joh_6_22_44",
+      "info": "Joh 6:22-44"
+    }
+  },
+  "05-18": {
+    "morning": {
+      "youVersion": "2KI.20.1",
+      "mySword": "2Ki_20_1_22_20",
+      "info": "2Ki 20-22"
+    },
+    "evening": {
+      "youVersion": "JOH.6.45",
+      "mySword": "Joh_6_45_71",
+      "info": "Joh 6:45-71"
+    }
+  },
+  "05-19": {
+    "morning": {
+      "youVersion": "2KI.23.1",
+      "mySword": "2Ki_23_1_25_30",
+      "info": "2Ki 23-25"
+    },
+    "evening": {
+      "youVersion": "JOH.7.1",
+      "mySword": "Joh_7_1_31",
+      "info": "Joh 7:1-31"
+    }
+  },
+  "05-20": {
+    "morning": {
+      "youVersion": "1CH.1.1",
+      "mySword": "1Ch_1_1_2_55",
+      "info": "1Ch 1-2"
+    },
+    "evening": {
+      "youVersion": "JOH.7.32",
+      "mySword": "Joh_7_32_53",
+      "info": "Joh 7:32-53"
+    }
+  },
+  "05-21": {
+    "morning": {
+      "youVersion": "1CH.3.1",
+      "mySword": "1Ch_3_1_5_26",
+      "info": "1Ch 3-5"
+    },
+    "evening": {
+      "youVersion": "JOH.8.1",
+      "mySword": "Joh_8_1_20",
+      "info": "Joh 8:1-20"
+    }
+  },
+  "05-22": {
+    "morning": {
+      "youVersion": "1CH.6.1",
+      "mySword": "1Ch_6_1_7_40",
+      "info": "1Ch 6-7"
+    },
+    "evening": {
+      "youVersion": "JOH.8.21",
+      "mySword": "Joh_8_21_36",
+      "info": "Joh 8:21-36"
+    }
+  },
+  "05-23": {
+    "morning": {
+      "youVersion": "1CH.8.1",
+      "mySword": "1Ch_8_1_10_14",
+      "info": "1Ch 8-10"
+    },
+    "evening": {
+      "youVersion": "JOH.8.37",
+      "mySword": "Joh_8_37_59",
+      "info": "Joh 8:37-59"
+    }
+  },
+  "05-24": {
+    "morning": {
+      "youVersion": "1CH.11.1",
+      "mySword": "1Ch_11_1_13_14",
+      "info": "1Ch 11-13"
+    },
+    "evening": {
+      "youVersion": "JOH.9.1",
+      "mySword": "Joh_9_1_23",
+      "info": "Joh 9:1-23"
+    }
+  },
+  "05-25": {
+    "morning": {
+      "youVersion": "1CH.14.1",
+      "mySword": "1Ch_14_1_16_43",
+      "info": "1Ch 14-16"
+    },
+    "evening": {
+      "youVersion": "JOH.9.24",
+      "mySword": "Joh_9_24_41",
+      "info": "Joh 9:24-41"
+    }
+  },
+  "05-26": {
+    "morning": {
+      "youVersion": "1CH.17.1",
+      "mySword": "1Ch_17_1_19_19",
+      "info": "1Ch 17-19"
+    },
+    "evening": {
+      "youVersion": "JOH.10.1",
+      "mySword": "Joh_10_1_21",
+      "info": "Joh 10:1-21"
+    }
+  },
+  "05-27": {
+    "morning": {
+      "youVersion": "1CH.20.1",
+      "mySword": "1Ch_20_1_22_19",
+      "info": "1Ch 20-22"
+    },
+    "evening": {
+      "youVersion": "JOH.10.22",
+      "mySword": "Joh_10_22_42",
+      "info": "Joh 10:22-42"
+    }
+  },
+  "05-28": {
+    "morning": {
+      "youVersion": "1CH.23.1",
+      "mySword": "1Ch_23_1_25_31",
+      "info": "1Ch 23-25"
+    },
+    "evening": {
+      "youVersion": "JOH.11.1",
+      "mySword": "Joh_11_1_17",
+      "info": "Joh 11:1-17"
+    }
+  },
+  "05-29": {
+    "morning": {
+      "youVersion": "1CH.26.1",
+      "mySword": "1Ch_26_1_27_34",
+      "info": "1Ch 26-27"
+    },
+    "evening": {
+      "youVersion": "JOH.11.18",
+      "mySword": "Joh_11_18_46",
+      "info": "Joh 11:18-46"
+    }
+  },
+  "05-30": {
+    "morning": {
+      "youVersion": "1CH.28.1",
+      "mySword": "1Ch_28_1_29_30",
+      "info": "1Ch 28-29"
+    },
+    "evening": {
+      "youVersion": "JOH.11.47",
+      "mySword": "Joh_11_47_57",
+      "info": "Joh 11:47-57"
+    }
+  },
+  "05-31": {
+    "morning": {
+      "youVersion": "2CH.1.1",
+      "mySword": "2Ch_1_1_3_17",
+      "info": "2Ch 1-3"
+    },
+    "evening": {
+      "youVersion": "JOH.12.1",
+      "mySword": "Joh_12_1_19",
+      "info": "Joh 12:1-19"
+    }
+  },
+  "06-01": {
+    "morning": {
+      "youVersion": "2CH.4.1",
+      "mySword": "2Ch_4_1_6_42",
+      "info": "2Ch 4-6"
+    },
+    "evening": {
+      "youVersion": "JOH.12.20",
+      "mySword": "Joh_12_20_50",
+      "info": "Joh 12:20-50"
+    }
+  },
+  "06-02": {
+    "morning": {
+      "youVersion": "2CH.7.1",
+      "mySword": "2Ch_7_1_9_31",
+      "info": "2Ch 7-9"
+    },
+    "evening": {
+      "youVersion": "JOH.13.1",
+      "mySword": "Joh_13_1_17",
+      "info": "Joh 13:1-17"
+    }
+  },
+  "06-03": {
+    "morning": {
+      "youVersion": "2CH.10.1",
+      "mySword": "2Ch_10_1_12_16",
+      "info": "2Ch 10-12"
+    },
+    "evening": {
+      "youVersion": "JOH.13.18",
+      "mySword": "Joh_13_18_38",
+      "info": "Joh 13:18-38"
+    }
+  },
+  "06-04": {
+    "morning": {
+      "youVersion": "2CH.13.1",
+      "mySword": "2Ch_13_1_16_14",
+      "info": "2Ch 13-16"
+    },
+    "evening": {
+      "youVersion": "JOH.14.1",
+      "mySword": "Joh_14_1_31",
+      "info": "Joh 14"
+    }
+  },
+  "06-05": {
+    "morning": {
+      "youVersion": "2CH.17.1",
+      "mySword": "2Ch_17_1_19_11",
+      "info": "2Ch 17-19"
+    },
+    "evening": {
+      "youVersion": "JOH.15.1",
+      "mySword": "Joh_15_1_27",
+      "info": "Joh 15"
+    }
+  },
+  "06-06": {
+    "morning": {
+      "youVersion": "2CH.20.1",
+      "mySword": "2Ch_20_1_22_12",
+      "info": "2Ch 20-22"
+    },
+    "evening": {
+      "youVersion": "JOH.16.1",
+      "mySword": "Joh_16_1_15",
+      "info": "Joh 16:1-15"
+    }
+  },
+  "06-07": {
+    "morning": {
+      "youVersion": "2CH.23.1",
+      "mySword": "2Ch_23_1_25_28",
+      "info": "2Ch 23-25"
+    },
+    "evening": {
+      "youVersion": "JOH.16.16",
+      "mySword": "Joh_16_16_33",
+      "info": "Joh 16:16-33"
+    }
+  },
+  "06-08": {
+    "morning": {
+      "youVersion": "2CH.26.1",
+      "mySword": "2Ch_26_1_27_9",
+      "info": "2Ch 26-27"
+    },
+    "evening": {
+      "youVersion": "JOH.17.1",
+      "mySword": "Joh_17_1_26",
+      "info": "Joh 17"
+    }
+  },
+  "06-09": {
+    "morning": {
+      "youVersion": "2CH.28.1",
+      "mySword": "2Ch_28_1_31_21",
+      "info": "2Ch 28-31"
+    },
+    "evening": {
+      "youVersion": "JOH.18.1",
+      "mySword": "Joh_18_1_23",
+      "info": "Joh 18:1-23"
+    }
+  },
+  "06-10": {
+    "morning": {
+      "youVersion": "2CH.32.1",
+      "mySword": "2Ch_32_1_33_25",
+      "info": "2Ch 32-33"
+    },
+    "evening": {
+      "youVersion": "JOH.18.24",
+      "mySword": "Joh_18_24_40",
+      "info": "Joh 18:24-40"
+    }
+  },
+  "06-11": {
+    "morning": {
+      "youVersion": "2CH.34.1",
+      "mySword": "2Ch_34_1_36_23",
+      "info": "2Ch 34-36"
+    },
+    "evening": {
+      "youVersion": "JOH.19.1",
+      "mySword": "Joh_19_1_22",
+      "info": "Joh 19:1-22"
+    }
+  },
+  "06-12": {
+    "morning": {
+      "youVersion": "EZR.1.1",
+      "mySword": "Ezr_1_1_2_70",
+      "info": "Ezr 1-2"
+    },
+    "evening": {
+      "youVersion": "JOH.19.23",
+      "mySword": "Joh_19_23_42",
+      "info": "Joh 19:23-42"
+    }
+  },
+  "06-13": {
+    "morning": {
+      "youVersion": "EZR.3.1",
+      "mySword": "Ezr_3_1_5_17",
+      "info": "Ezr 3-5"
+    },
+    "evening": {
+      "youVersion": "JOH.20.1",
+      "mySword": "Joh_20_1_31",
+      "info": "Joh 20"
+    }
+  },
+  "06-14": {
+    "morning": {
+      "youVersion": "EZR.6.1",
+      "mySword": "Ezr_6_1_8_36",
+      "info": "Ezr 6-8"
+    },
+    "evening": {
+      "youVersion": "JOH.21.1",
+      "mySword": "Joh_21_1_25",
+      "info": "Joh 21"
+    }
+  },
+  "06-15": {
+    "morning": {
+      "youVersion": "EZR.9.1",
+      "mySword": "Ezr_9_1_10_44",
+      "info": "Ezr 9-10"
+    },
+    "evening": {
+      "youVersion": "ACT.1.1",
+      "mySword": "Act_1_1_26",
+      "info": "Act 1"
+    }
+  },
+  "06-16": {
+    "morning": {
+      "youVersion": "NEH.1.1",
+      "mySword": "Neh_1_1_3_32",
+      "info": "Neh 1-3"
+    },
+    "evening": {
+      "youVersion": "ACT.2.1",
+      "mySword": "Act_2_1_13",
+      "info": "Act 2:1-13"
+    }
+  },
+  "06-17": {
+    "morning": {
+      "youVersion": "NEH.4.1",
+      "mySword": "Neh_4_1_6_19",
+      "info": "Neh 4-6"
+    },
+    "evening": {
+      "youVersion": "ACT.2.14",
+      "mySword": "Act_2_14_47",
+      "info": "Act 2:14-47"
+    }
+  },
+  "06-18": {
+    "morning": {
+      "youVersion": "NEH.7.1",
+      "mySword": "Neh_7_1_8_18",
+      "info": "Neh 7-8"
+    },
+    "evening": {
+      "youVersion": "ACT.3.1",
+      "mySword": "Act_3_1_26",
+      "info": "Act 3"
+    }
+  },
+  "06-19": {
+    "morning": {
+      "youVersion": "NEH.9.1",
+      "mySword": "Neh_9_1_11_36",
+      "info": "Neh 9-11"
+    },
+    "evening": {
+      "youVersion": "ACT.4.1",
+      "mySword": "Act_4_1_22",
+      "info": "Act 4:1-22"
+    }
+  },
+  "06-20": {
+    "morning": {
+      "youVersion": "NEH.12.1",
+      "mySword": "Neh_12_1_13_31",
+      "info": "Neh 12-13"
+    },
+    "evening": {
+      "youVersion": "ACT.4.23",
+      "mySword": "Act_4_23_37",
+      "info": "Act 4:23-37"
+    }
+  },
+  "06-21": {
+    "morning": {
+      "youVersion": "EST.1.1",
+      "mySword": "Est_1_1_3_15",
+      "info": "Est 1-3"
+    },
+    "evening": {
+      "youVersion": "ACT.5.1",
+      "mySword": "Act_5_1_16",
+      "info": "Act 5:1-16"
+    }
+  },
+  "06-22": {
+    "morning": {
+      "youVersion": "EST.4.1",
+      "mySword": "Est_4_1_6_14",
+      "info": "Est 4-6"
+    },
+    "evening": {
+      "youVersion": "ACT.5.17",
+      "mySword": "Act_5_17_42",
+      "info": "Act 5:17-42"
+    }
+  },
+  "06-23": {
+    "morning": {
+      "youVersion": "EST.7.1",
+      "mySword": "Est_7_1_10_3",
+      "info": "Est 7-10"
+    },
+    "evening": {
+      "youVersion": "ACT.6.1",
+      "mySword": "Act_6_1_15",
+      "info": "Act 6"
+    }
+  },
+  "06-24": {
+    "morning": {
+      "youVersion": "JOB.1.1",
+      "mySword": "Job_1_1_3_26",
+      "info": "Job 1-3"
+    },
+    "evening": {
+      "youVersion": "ACT.7.1",
+      "mySword": "Act_7_1_19",
+      "info": "Act 7:1-19"
+    }
+  },
+  "06-25": {
+    "morning": {
+      "youVersion": "JOB.4.1",
+      "mySword": "Job_4_1_6_30",
+      "info": "Job 4-6"
+    },
+    "evening": {
+      "youVersion": "ACT.7.20",
+      "mySword": "Act_7_20_43",
+      "info": "Act 7:20-43"
+    }
+  },
+  "06-26": {
+    "morning": {
+      "youVersion": "JOB.7.1",
+      "mySword": "Job_7_1_9_35",
+      "info": "Job 7-9"
+    },
+    "evening": {
+      "youVersion": "ACT.7.44",
+      "mySword": "Act_7_44_60",
+      "info": "Act 7:44-60"
+    }
+  },
+  "06-27": {
+    "morning": {
+      "youVersion": "JOB.10.1",
+      "mySword": "Job_10_1_12_25",
+      "info": "Job 10-12"
+    },
+    "evening": {
+      "youVersion": "ACT.8.1",
+      "mySword": "Act_8_1_25",
+      "info": "Act 8:1-25"
+    }
+  },
+  "06-28": {
+    "morning": {
+      "youVersion": "JOB.13.1",
+      "mySword": "Job_13_1_15_35",
+      "info": "Job 13-15"
+    },
+    "evening": {
+      "youVersion": "ACT.8.26",
+      "mySword": "Act_8_26_40",
+      "info": "Act 8:26-40"
+    }
+  },
+  "06-29": {
+    "morning": {
+      "youVersion": "JOB.16.1",
+      "mySword": "Job_16_1_18_21",
+      "info": "Job 16-18"
+    },
+    "evening": {
+      "youVersion": "ACT.9.1",
+      "mySword": "Act_9_1_22",
+      "info": "Act 9:1-22"
+    }
+  },
+  "06-30": {
+    "morning": {
+      "youVersion": "JOB.19.1",
+      "mySword": "Job_19_1_20_29",
+      "info": "Job 19-20"
+    },
+    "evening": {
+      "youVersion": "ACT.9.23",
+      "mySword": "Act_9_23_43",
+      "info": "Act 9:23-43"
+    }
+  },
+  "07-01": {
+    "morning": {
+      "youVersion": "JOB.21.1",
+      "mySword": "Job_21_1_22_30",
+      "info": "Job 21-22"
+    },
+    "evening": {
+      "youVersion": "ACT.10.1",
+      "mySword": "Act_10_1_23",
+      "info": "Act 10:1-23"
+    }
+  },
+  "07-02": {
+    "morning": {
+      "youVersion": "JOB.23.1",
+      "mySword": "Job_23_1_25_6",
+      "info": "Job 23-25"
+    },
+    "evening": {
+      "youVersion": "ACT.10.24",
+      "mySword": "Act_10_24_48",
+      "info": "Act 10:24-48"
+    }
+  },
+  "07-03": {
+    "morning": {
+      "youVersion": "JOB.26.1",
+      "mySword": "Job_26_1_28_28",
+      "info": "Job 26-28"
+    },
+    "evening": {
+      "youVersion": "ACT.11.1",
+      "mySword": "Act_11_1_30",
+      "info": "Act 11"
+    }
+  },
+  "07-04": {
+    "morning": {
+      "youVersion": "JOB.29.1",
+      "mySword": "Job_29_1_30_31",
+      "info": "Job 29-30"
+    },
+    "evening": {
+      "youVersion": "ACT.12.1",
+      "mySword": "Act_12_1_25",
+      "info": "Act 12"
+    }
+  },
+  "07-05": {
+    "morning": {
+      "youVersion": "JOB.31.1",
+      "mySword": "Job_31_1_32_22",
+      "info": "Job 31-32"
+    },
+    "evening": {
+      "youVersion": "ACT.13.1",
+      "mySword": "Act_13_1_23",
+      "info": "Act 13:1-23"
+    }
+  },
+  "07-06": {
+    "morning": {
+      "youVersion": "JOB.33.1",
+      "mySword": "Job_33_1_34_37",
+      "info": "Job 33-34"
+    },
+    "evening": {
+      "youVersion": "ACT.13.24",
+      "mySword": "Act_13_24_52",
+      "info": "Act 13:24-52"
+    }
+  },
+  "07-07": {
+    "morning": {
+      "youVersion": "JOB.35.1",
+      "mySword": "Job_35_1_37_24",
+      "info": "Job 35-37"
+    },
+    "evening": {
+      "youVersion": "ACT.14.1",
+      "mySword": "Act_14_1_28",
+      "info": "Act 14"
+    }
+  },
+  "07-08": {
+    "morning": {
+      "youVersion": "JOB.38.1",
+      "mySword": "Job_38_1_39_30",
+      "info": "Job 38-39"
+    },
+    "evening": {
+      "youVersion": "ACT.15.1",
+      "mySword": "Act_15_1_21",
+      "info": "Act 15:1-21"
+    }
+  },
+  "07-09": {
+    "morning": {
+      "youVersion": "JOB.40.1",
+      "mySword": "Job_40_1_42_17",
+      "info": "Job 40-42"
+    },
+    "evening": {
+      "youVersion": "ACT.15.22",
+      "mySword": "Act_15_22_41",
+      "info": "Act 15:22-41"
+    }
+  },
+  "07-10": {
+    "morning": {
+      "youVersion": "PSA.1.1",
+      "mySword": "Psa_1_1_3_8",
+      "info": "Psa 1-3"
+    },
+    "evening": {
+      "youVersion": "ACT.16.1",
+      "mySword": "Act_16_1_15",
+      "info": "Act 16:1-15"
+    }
+  },
+  "07-11": {
+    "morning": {
+      "youVersion": "PSA.4.1",
+      "mySword": "Psa_4_1_6_10",
+      "info": "Psa 4-6"
+    },
+    "evening": {
+      "youVersion": "ACT.16.16",
+      "mySword": "Act_16_16_40",
+      "info": "Act 16:16-40"
+    }
+  },
+  "07-12": {
+    "morning": {
+      "youVersion": "PSA.7.1",
+      "mySword": "Psa_7_1_9_20",
+      "info": "Psa 7-9"
+    },
+    "evening": {
+      "youVersion": "ACT.17.1",
+      "mySword": "Act_17_1_15",
+      "info": "Act 17:1-15"
+    }
+  },
+  "07-13": {
+    "morning": {
+      "youVersion": "PSA.10.1",
+      "mySword": "Psa_10_1_12_8",
+      "info": "Psa 10-12"
+    },
+    "evening": {
+      "youVersion": "ACT.17.16",
+      "mySword": "Act_17_16_24",
+      "info": "Act 17:16-24"
+    }
+  },
+  "07-14": {
+    "morning": {
+      "youVersion": "PSA.13.1",
+      "mySword": "Psa_13_1_16_11",
+      "info": "Psa 13-16"
+    },
+    "evening": {
+      "youVersion": "ACT.18.1",
+      "mySword": "Act_18_1_28",
+      "info": "Act 18"
+    }
+  },
+  "07-15": {
+    "morning": {
+      "youVersion": "PSA.17.1",
+      "mySword": "Psa_17_1_18_50",
+      "info": "Psa 17-18"
+    },
+    "evening": {
+      "youVersion": "ACT.19.1",
+      "mySword": "Act_19_1_20",
+      "info": "Act 19:1-20"
+    }
+  },
+  "07-16": {
+    "morning": {
+      "youVersion": "PSA.19.1",
+      "mySword": "Psa_19_1_21_13",
+      "info": "Psa 19-21"
+    },
+    "evening": {
+      "youVersion": "ACT.19.21",
+      "mySword": "Act_19_21_41",
+      "info": "Act 19:21-41"
+    }
+  },
+  "07-17": {
+    "morning": {
+      "youVersion": "PSA.22.1",
+      "mySword": "Psa_22_1_24_10",
+      "info": "Psa 22-24"
+    },
+    "evening": {
+      "youVersion": "ACT.20.1",
+      "mySword": "Act_20_1_16",
+      "info": "Act 20:1-16"
+    }
+  },
+  "07-18": {
+    "morning": {
+      "youVersion": "PSA.25.1",
+      "mySword": "Psa_25_1_27_14",
+      "info": "Psa 25-27"
+    },
+    "evening": {
+      "youVersion": "ACT.20.17",
+      "mySword": "Act_20_17_38",
+      "info": "Act 20:17-38"
+    }
+  },
+  "07-19": {
+    "morning": {
+      "youVersion": "PSA.28.1",
+      "mySword": "Psa_28_1_30_12",
+      "info": "Psa 28-30"
+    },
+    "evening": {
+      "youVersion": "ACT.21.1",
+      "mySword": "Act_21_1_14",
+      "info": "Act 21:1-14"
+    }
+  },
+  "07-20": {
+    "morning": {
+      "youVersion": "PSA.31.1",
+      "mySword": "Psa_31_1_33_22",
+      "info": "Psa 31-33"
+    },
+    "evening": {
+      "youVersion": "ACT.21.15",
+      "mySword": "Act_21_15_40",
+      "info": "Act 21:15-40"
+    }
+  },
+  "07-21": {
+    "morning": {
+      "youVersion": "PSA.34.1",
+      "mySword": "Psa_34_1_35_28",
+      "info": "Psa 34-35"
+    },
+    "evening": {
+      "youVersion": "ACT.22.1",
+      "mySword": "Act_22_1_30",
+      "info": "Act 22"
+    }
+  },
+  "07-22": {
+    "morning": {
+      "youVersion": "PSA.36.1",
+      "mySword": "Psa_36_1_37_40",
+      "info": "Psa 36-37"
+    },
+    "evening": {
+      "youVersion": "ACT.23.1",
+      "mySword": "Act_23_1_11",
+      "info": "Act 23:1-11"
+    }
+  },
+  "07-23": {
+    "morning": {
+      "youVersion": "PSA.38.1",
+      "mySword": "Psa_38_1_40_17",
+      "info": "Psa 38-40"
+    },
+    "evening": {
+      "youVersion": "ACT.23.12",
+      "mySword": "Act_23_12_35",
+      "info": "Act 23:12-35"
+    }
+  },
+  "07-24": {
+    "morning": {
+      "youVersion": "PSA.41.1",
+      "mySword": "Psa_41_1_43_5",
+      "info": "Psa 41-43"
+    },
+    "evening": {
+      "youVersion": "ACT.24.1",
+      "mySword": "Act_24_1_27",
+      "info": "Act 24"
+    }
+  },
+  "07-25": {
+    "morning": {
+      "youVersion": "PSA.44.1",
+      "mySword": "Psa_44_1_46_11",
+      "info": "Psa 44-46"
+    },
+    "evening": {
+      "youVersion": "ACT.25.1",
+      "mySword": "Act_25_1_27",
+      "info": "Act 25"
+    }
+  },
+  "07-26": {
+    "morning": {
+      "youVersion": "PSA.47.1",
+      "mySword": "Psa_47_1_49_20",
+      "info": "Psa 47-49"
+    },
+    "evening": {
+      "youVersion": "ACT.26.1",
+      "mySword": "Act_26_1_32",
+      "info": "Act 26"
+    }
+  },
+  "07-27": {
+    "morning": {
+      "youVersion": "PSA.50.1",
+      "mySword": "Psa_50_1_52_9",
+      "info": "Psa 50-52"
+    },
+    "evening": {
+      "youVersion": "ACT.27.1",
+      "mySword": "Act_27_1_25",
+      "info": "Act 27:1-25"
+    }
+  },
+  "07-28": {
+    "morning": {
+      "youVersion": "PSA.53.1",
+      "mySword": "Psa_53_1_55_23",
+      "info": "Psa 53-55"
+    },
+    "evening": {
+      "youVersion": "ACT.27.26",
+      "mySword": "Act_27_26_44",
+      "info": "Act 27:26-44"
+    }
+  },
+  "07-29": {
+    "morning": {
+      "youVersion": "PSA.56.1",
+      "mySword": "Psa_56_1_58_11",
+      "info": "Psa 56-58"
+    },
+    "evening": {
+      "youVersion": "ACT.28.1",
+      "mySword": "Act_28_1_15",
+      "info": "Act 28:1-15"
+    }
+  },
+  "07-30": {
+    "morning": {
+      "youVersion": "PSA.59.1",
+      "mySword": "Psa_59_1_61_8",
+      "info": "Psa 59-61"
+    },
+    "evening": {
+      "youVersion": "ACT.28.16",
+      "mySword": "Act_28_16_31",
+      "info": "Act 28:16-31"
+    }
+  },
+  "07-31": {
+    "morning": {
+      "youVersion": "PSA.62.1",
+      "mySword": "Psa_62_1_64_10",
+      "info": "Psa 62-64"
+    },
+    "evening": {
+      "youVersion": "ROM.1.1",
+      "mySword": "Rom_1_1_32",
+      "info": "Rom 1"
+    }
+  },
+  "08-01": {
+    "morning": {
+      "youVersion": "PSA.65.1",
+      "mySword": "Psa_65_1_67_7",
+      "info": "Psa 65-67"
+    },
+    "evening": {
+      "youVersion": "ROM.2.1",
+      "mySword": "Rom_2_1_29",
+      "info": "Rom 2"
+    }
+  },
+  "08-02": {
+    "morning": {
+      "youVersion": "PSA.68.1",
+      "mySword": "Psa_68_1_69_36",
+      "info": "Psa 68-69"
+    },
+    "evening": {
+      "youVersion": "ROM.3.1",
+      "mySword": "Rom_3_1_31",
+      "info": "Rom 3"
+    }
+  },
+  "08-03": {
+    "morning": {
+      "youVersion": "PSA.70.1",
+      "mySword": "Psa_70_1_72_20",
+      "info": "Psa 70-72"
+    },
+    "evening": {
+      "youVersion": "ROM.4.1",
+      "mySword": "Rom_4_1_25",
+      "info": "Rom 4"
+    }
+  },
+  "08-04": {
+    "morning": {
+      "youVersion": "PSA.73.1",
+      "mySword": "Psa_73_1_74_23",
+      "info": "Psa 73-74"
+    },
+    "evening": {
+      "youVersion": "ROM.5.1",
+      "mySword": "Rom_5_1_21",
+      "info": "Rom 5"
+    }
+  },
+  "08-05": {
+    "morning": {
+      "youVersion": "PSA.75.1",
+      "mySword": "Psa_75_1_77_20",
+      "info": "Psa 75-77"
+    },
+    "evening": {
+      "youVersion": "ROM.6.1",
+      "mySword": "Rom_6_1_23",
+      "info": "Rom 6"
+    }
+  },
+  "08-06": {
+    "morning": {
+      "youVersion": "PSA.78.1",
+      "mySword": "Psa_78_1_72",
+      "info": "Psa 78"
+    },
+    "evening": {
+      "youVersion": "ROM.7.1",
+      "mySword": "Rom_7_1_25",
+      "info": "Rom 7"
+    }
+  },
+  "08-07": {
+    "morning": {
+      "youVersion": "PSA.79.1",
+      "mySword": "Psa_79_1_81_16",
+      "info": "Psa 79-81"
+    },
+    "evening": {
+      "youVersion": "ROM.8.1",
+      "mySword": "Rom_8_1_18",
+      "info": "Rom 8:1-18"
+    }
+  },
+  "08-08": {
+    "morning": {
+      "youVersion": "PSA.82.1",
+      "mySword": "Psa_82_1_84_12",
+      "info": "Psa 82-84"
+    },
+    "evening": {
+      "youVersion": "ROM.8.19",
+      "mySword": "Rom_8_19_39",
+      "info": "Rom 8:19-39"
+    }
+  },
+  "08-09": {
+    "morning": {
+      "youVersion": "PSA.85.1",
+      "mySword": "Psa_85_1_87_7",
+      "info": "Psa 85-87"
+    },
+    "evening": {
+      "youVersion": "ROM.9.1",
+      "mySword": "Rom_9_1_33",
+      "info": "Rom 9"
+    }
+  },
+  "08-10": {
+    "morning": {
+      "youVersion": "PSA.88.1",
+      "mySword": "Psa_88_1_89_52",
+      "info": "Psa 88-89"
+    },
+    "evening": {
+      "youVersion": "ROM.10.1",
+      "mySword": "Rom_10_1_21",
+      "info": "Rom 10"
+    }
+  },
+  "08-11": {
+    "morning": {
+      "youVersion": "PSA.90.1",
+      "mySword": "Psa_90_1_92_15",
+      "info": "Psa 90-92"
+    },
+    "evening": {
+      "youVersion": "ROM.11.1",
+      "mySword": "Rom_11_1_21",
+      "info": "Rom 11:1-21"
+    }
+  },
+  "08-12": {
+    "morning": {
+      "youVersion": "PSA.93.1",
+      "mySword": "Psa_93_1_95_11",
+      "info": "Psa 93-95"
+    },
+    "evening": {
+      "youVersion": "ROM.11.22",
+      "mySword": "Rom_11_22_36",
+      "info": "Rom 11:22-36"
+    }
+  },
+  "08-13": {
+    "morning": {
+      "youVersion": "PSA.96.1",
+      "mySword": "Psa_96_1_98_9",
+      "info": "Psa 96-98"
+    },
+    "evening": {
+      "youVersion": "ROM.12.1",
+      "mySword": "Rom_12_1_21",
+      "info": "Rom 12"
+    }
+  },
+  "08-14": {
+    "morning": {
+      "youVersion": "PSA.99.1",
+      "mySword": "Psa_99_1_102_28",
+      "info": "Psa 99-102"
+    },
+    "evening": {
+      "youVersion": "ROM.13.1",
+      "mySword": "Rom_13_1_14",
+      "info": "Rom 13"
+    }
+  },
+  "08-15": {
+    "morning": {
+      "youVersion": "PSA.103.1",
+      "mySword": "Psa_103_1_104_35",
+      "info": "Psa 103-104"
+    },
+    "evening": {
+      "youVersion": "ROM.14.1",
+      "mySword": "Rom_14_1_23",
+      "info": "Rom 14"
+    }
+  },
+  "08-16": {
+    "morning": {
+      "youVersion": "PSA.105.1",
+      "mySword": "Psa_105_1_106_48",
+      "info": "Psa 105-106"
+    },
+    "evening": {
+      "youVersion": "ROM.15.1",
+      "mySword": "Rom_15_1_20",
+      "info": "Rom 15:1-20"
+    }
+  },
+  "08-17": {
+    "morning": {
+      "youVersion": "PSA.107.1",
+      "mySword": "Psa_107_1_108_13",
+      "info": "Psa 107-108"
+    },
+    "evening": {
+      "youVersion": "ROM.15.21",
+      "mySword": "Rom_15_21_33",
+      "info": "Rom 15:21-33"
+    }
+  },
+  "08-18": {
+    "morning": {
+      "youVersion": "PSA.109.1",
+      "mySword": "Psa_109_1_111_10",
+      "info": "Psa 109-111"
+    },
+    "evening": {
+      "youVersion": "ROM.16.1",
+      "mySword": "Rom_16_1_27",
+      "info": "Rom 16"
+    }
+  },
+  "08-19": {
+    "morning": {
+      "youVersion": "PSA.112.1",
+      "mySword": "Psa_112_1_115_18",
+      "info": "Psa 112-115"
+    },
+    "evening": {
+      "youVersion": "1CO.1.1",
+      "mySword": "1Co_1_1_31",
+      "info": "1Co 1"
+    }
+  },
+  "08-20": {
+    "morning": {
+      "youVersion": "PSA.116.1",
+      "mySword": "Psa_116_1_118_29",
+      "info": "Psa 116-118"
+    },
+    "evening": {
+      "youVersion": "1CO.2.1",
+      "mySword": "1Co_2_1_16",
+      "info": "1Co 2"
+    }
+  },
+  "08-21": {
+    "morning": {
+      "youVersion": "PSA.119.1",
+      "mySword": "Psa_119_1_48",
+      "info": "Psa 119:1-48"
+    },
+    "evening": {
+      "youVersion": "1CO.3.1",
+      "mySword": "1Co_3_1_23",
+      "info": "1Co 3"
+    }
+  },
+  "08-22": {
+    "morning": {
+      "youVersion": "PSA.119.49",
+      "mySword": "Psa_119_49_104",
+      "info": "Psa 119:49-104"
+    },
+    "evening": {
+      "youVersion": "1CO.4.1",
+      "mySword": "1Co_4_1_21",
+      "info": "1Co 4"
+    }
+  },
+  "08-23": {
+    "morning": {
+      "youVersion": "PSA.119.105",
+      "mySword": "Psa_119_105_176",
+      "info": "Psa 119:105-176"
+    },
+    "evening": {
+      "youVersion": "1CO.5.1",
+      "mySword": "1Co_5_1_13",
+      "info": "1Co 5"
+    }
+  },
+  "08-24": {
+    "morning": {
+      "youVersion": "PSA.120.1",
+      "mySword": "Psa_120_1_123_4",
+      "info": "Psa 120-123"
+    },
+    "evening": {
+      "youVersion": "1CO.6.1",
+      "mySword": "1Co_6_1_20",
+      "info": "1Co 6"
+    }
+  },
+  "08-25": {
+    "morning": {
+      "youVersion": "PSA.124.1",
+      "mySword": "Psa_124_1_127_5",
+      "info": "Psa 124-127"
+    },
+    "evening": {
+      "youVersion": "1CO.7.1",
+      "mySword": "1Co_7_1_24",
+      "info": "1Co 7:1-24"
+    }
+  },
+  "08-26": {
+    "morning": {
+      "youVersion": "PSA.128.1",
+      "mySword": "Psa_128_1_131_3",
+      "info": "Psa 128-131"
+    },
+    "evening": {
+      "youVersion": "1CO.7.25",
+      "mySword": "1Co_7_25_40",
+      "info": "1Co 7:25-40"
+    }
+  },
+  "08-27": {
+    "morning": {
+      "youVersion": "PSA.132.1",
+      "mySword": "Psa_132_1_135_21",
+      "info": "Psa 132-135"
+    },
+    "evening": {
+      "youVersion": "1CO.8.1",
+      "mySword": "1Co_8_1_13",
+      "info": "1Co 8"
+    }
+  },
+  "08-28": {
+    "morning": {
+      "youVersion": "PSA.136.1",
+      "mySword": "Psa_136_1_138_8",
+      "info": "Psa 136-138"
+    },
+    "evening": {
+      "youVersion": "1CO.9.1",
+      "mySword": "1Co_9_1_27",
+      "info": "1Co 9"
+    }
+  },
+  "08-29": {
+    "morning": {
+      "youVersion": "PSA.139.1",
+      "mySword": "Psa_139_1_141_10",
+      "info": "Psa 139-141"
+    },
+    "evening": {
+      "youVersion": "1CO.10.1",
+      "mySword": "1Co_10_1_13",
+      "info": "1Co 10:1-13"
+    }
+  },
+  "08-30": {
+    "morning": {
+      "youVersion": "PSA.142.1",
+      "mySword": "Psa_142_1_144_15",
+      "info": "Psa 142-144"
+    },
+    "evening": {
+      "youVersion": "1CO.10.14",
+      "mySword": "1Co_10_14_33",
+      "info": "1Co 10:14-33"
+    }
+  },
+  "08-31": {
+    "morning": {
+      "youVersion": "PSA.145.1",
+      "mySword": "Psa_145_1_147_20",
+      "info": "Psa 145-147"
+    },
+    "evening": {
+      "youVersion": "1CO.11.1",
+      "mySword": "1Co_11_1_15",
+      "info": "1Co 11:1-15"
+    }
+  },
+  "09-01": {
+    "morning": {
+      "youVersion": "PSA.148.1",
+      "mySword": "Psa_148_1_150_6",
+      "info": "Psa 148-150"
+    },
+    "evening": {
+      "youVersion": "1CO.11.16",
+      "mySword": "1Co_11_16_34",
+      "info": "1Co 11:16-34"
+    }
+  },
+  "09-02": {
+    "morning": {
+      "youVersion": "PRO.1.1",
+      "mySword": "Pro_1_1_2_22",
+      "info": "Pro 1-2"
+    },
+    "evening": {
+      "youVersion": "1CO.12.1",
+      "mySword": "1Co_12_1_31",
+      "info": "1Co 12"
+    }
+  },
+  "09-03": {
+    "morning": {
+      "youVersion": "PRO.3.1",
+      "mySword": "Pro_3_1_4_27",
+      "info": "Pro 3-4"
+    },
+    "evening": {
+      "youVersion": "1CO.13.1",
+      "mySword": "1Co_13_1_13",
+      "info": "1Co 13"
+    }
+  },
+  "09-04": {
+    "morning": {
+      "youVersion": "PRO.5.1",
+      "mySword": "Pro_5_1_6_35",
+      "info": "Pro 5-6"
+    },
+    "evening": {
+      "youVersion": "1CO.14.1",
+      "mySword": "1Co_14_1_20",
+      "info": "1Co 14:1-20"
+    }
+  },
+  "09-05": {
+    "morning": {
+      "youVersion": "PRO.7.1",
+      "mySword": "Pro_7_1_8_36",
+      "info": "Pro 7-8"
+    },
+    "evening": {
+      "youVersion": "1CO.14.21",
+      "mySword": "1Co_14_21_40",
+      "info": "1Co 14:21-40"
+    }
+  },
+  "09-06": {
+    "morning": {
+      "youVersion": "PRO.9.1",
+      "mySword": "Pro_9_1_10_32",
+      "info": "Pro 9-10"
+    },
+    "evening": {
+      "youVersion": "1CO.15.1",
+      "mySword": "1Co_15_1_32",
+      "info": "1Co 15:1-32"
+    }
+  },
+  "09-07": {
+    "morning": {
+      "youVersion": "PRO.11.1",
+      "mySword": "Pro_11_1_12_28",
+      "info": "Pro 11-12"
+    },
+    "evening": {
+      "youVersion": "1CO.15.33",
+      "mySword": "1Co_15_33_58",
+      "info": "1Co 15:33-58"
+    }
+  },
+  "09-08": {
+    "morning": {
+      "youVersion": "PRO.13.1",
+      "mySword": "Pro_13_1_14_35",
+      "info": "Pro 13-14"
+    },
+    "evening": {
+      "youVersion": "1CO.16.1",
+      "mySword": "1Co_16_1_24",
+      "info": "1Co 16"
+    }
+  },
+  "09-09": {
+    "morning": {
+      "youVersion": "PRO.15.1",
+      "mySword": "Pro_15_1_16_33",
+      "info": "Pro 15-16"
+    },
+    "evening": {
+      "youVersion": "2CO.1.1",
+      "mySword": "2Co_1_1_24",
+      "info": "2Co 1"
+    }
+  },
+  "09-10": {
+    "morning": {
+      "youVersion": "PRO.17.1",
+      "mySword": "Pro_17_1_18_24",
+      "info": "Pro 17-18"
+    },
+    "evening": {
+      "youVersion": "2CO.2.1",
+      "mySword": "2Co_2_1_17",
+      "info": "2Co 2"
+    }
+  },
+  "09-11": {
+    "morning": {
+      "youVersion": "PRO.19.1",
+      "mySword": "Pro_19_1_20_30",
+      "info": "Pro 19-20"
+    },
+    "evening": {
+      "youVersion": "2CO.3.1",
+      "mySword": "2Co_3_1_18",
+      "info": "2Co 3"
+    }
+  },
+  "09-12": {
+    "morning": {
+      "youVersion": "PRO.21.1",
+      "mySword": "Pro_21_1_22_29",
+      "info": "Pro 21-22"
+    },
+    "evening": {
+      "youVersion": "2CO.4.1",
+      "mySword": "2Co_4_1_18",
+      "info": "2Co 4"
+    }
+  },
+  "09-13": {
+    "morning": {
+      "youVersion": "PRO.23.1",
+      "mySword": "Pro_23_1_24_34",
+      "info": "Pro 23-24"
+    },
+    "evening": {
+      "youVersion": "2CO.5.1",
+      "mySword": "2Co_5_1_21",
+      "info": "2Co 5"
+    }
+  },
+  "09-14": {
+    "morning": {
+      "youVersion": "PRO.25.1",
+      "mySword": "Pro_25_1_27_27",
+      "info": "Pro 25-27"
+    },
+    "evening": {
+      "youVersion": "2CO.6.1",
+      "mySword": "2Co_6_1_18",
+      "info": "2Co 6"
+    }
+  },
+  "09-15": {
+    "morning": {
+      "youVersion": "PRO.28.1",
+      "mySword": "Pro_28_1_29_27",
+      "info": "Pro 28-29"
+    },
+    "evening": {
+      "youVersion": "2CO.7.1",
+      "mySword": "2Co_7_1_16",
+      "info": "2Co 7"
+    }
+  },
+  "09-16": {
+    "morning": {
+      "youVersion": "PRO.30.1",
+      "mySword": "Pro_30_1_31_31",
+      "info": "Pro 30-31"
+    },
+    "evening": {
+      "youVersion": "2CO.8.1",
+      "mySword": "2Co_8_1_24",
+      "info": "2Co 8"
+    }
+  },
+  "09-17": {
+    "morning": {
+      "youVersion": "ECC.1.1",
+      "mySword": "Ecc_1_1_3_22",
+      "info": "Ecc 1-3"
+    },
+    "evening": {
+      "youVersion": "2CO.9.1",
+      "mySword": "2Co_9_1_15",
+      "info": "2Co 9"
+    }
+  },
+  "09-18": {
+    "morning": {
+      "youVersion": "ECC.4.1",
+      "mySword": "Ecc_4_1_6_12",
+      "info": "Ecc 4-6"
+    },
+    "evening": {
+      "youVersion": "2CO.10.1",
+      "mySword": "2Co_10_1_18",
+      "info": "2Co 10"
+    }
+  },
+  "09-19": {
+    "morning": {
+      "youVersion": "ECC.7.1",
+      "mySword": "Ecc_7_1_9_18",
+      "info": "Ecc 7-9"
+    },
+    "evening": {
+      "youVersion": "2CO.11.1",
+      "mySword": "2Co_11_1_15",
+      "info": "2Co 11:1-15"
+    }
+  },
+  "09-20": {
+    "morning": {
+      "youVersion": "ECC.10.1",
+      "mySword": "Ecc_10_1_12_14",
+      "info": "Ecc 10-12"
+    },
+    "evening": {
+      "youVersion": "2CO.11.16",
+      "mySword": "2Co_11_16_33",
+      "info": "2Co 11:16-33"
+    }
+  },
+  "09-21": {
+    "morning": {
+      "youVersion": "SNG.1.1",
+      "mySword": "Son_1_1_3_11",
+      "info": "Son 1-3"
+    },
+    "evening": {
+      "youVersion": "2CO.12.1",
+      "mySword": "2Co_12_1_21",
+      "info": "2Co 12"
+    }
+  },
+  "09-22": {
+    "morning": {
+      "youVersion": "SNG.4.1",
+      "mySword": "Son_4_1_5_16",
+      "info": "Son 4-5"
+    },
+    "evening": {
+      "youVersion": "2CO.13.1",
+      "mySword": "2Co_13_1_14",
+      "info": "2Co 13"
+    }
+  },
+  "09-23": {
+    "morning": {
+      "youVersion": "SNG.6.1",
+      "mySword": "Son_6_1_8_14",
+      "info": "Son 6-8"
+    },
+    "evening": {
+      "youVersion": "GAL.1.1",
+      "mySword": "Gal_1_1_24",
+      "info": "Gal 1"
+    }
+  },
+  "09-24": {
+    "morning": {
+      "youVersion": "ISA.1.1",
+      "mySword": "Isa_1_1_3_26",
+      "info": "Isa 1-3"
+    },
+    "evening": {
+      "youVersion": "GAL.2.1",
+      "mySword": "Gal_2_1_21",
+      "info": "Gal 2"
+    }
+  },
+  "09-25": {
+    "morning": {
+      "youVersion": "ISA.4.1",
+      "mySword": "Isa_4_1_6_13",
+      "info": "Isa 4-6"
+    },
+    "evening": {
+      "youVersion": "GAL.3.1",
+      "mySword": "Gal_3_1_29",
+      "info": "Gal 3"
+    }
+  },
+  "09-26": {
+    "morning": {
+      "youVersion": "ISA.7.1",
+      "mySword": "Isa_7_1_9_21",
+      "info": "Isa 7-9"
+    },
+    "evening": {
+      "youVersion": "GAL.4.1",
+      "mySword": "Gal_4_1_31",
+      "info": "Gal 4"
+    }
+  },
+  "09-27": {
+    "morning": {
+      "youVersion": "ISA.10.1",
+      "mySword": "Isa_10_1_12_6",
+      "info": "Isa 10-12"
+    },
+    "evening": {
+      "youVersion": "GAL.5.1",
+      "mySword": "Gal_5_1_26",
+      "info": "Gal 5"
+    }
+  },
+  "09-28": {
+    "morning": {
+      "youVersion": "ISA.13.1",
+      "mySword": "Isa_13_1_15_9",
+      "info": "Isa 13-15"
+    },
+    "evening": {
+      "youVersion": "GAL.6.1",
+      "mySword": "Gal_6_1_18",
+      "info": "Gal 6"
+    }
+  },
+  "09-29": {
+    "morning": {
+      "youVersion": "ISA.16.1",
+      "mySword": "Isa_16_1_18_7",
+      "info": "Isa 16-18"
+    },
+    "evening": {
+      "youVersion": "EPH.1.1",
+      "mySword": "Eph_1_1_23",
+      "info": "Eph 1"
+    }
+  },
+  "09-30": {
+    "morning": {
+      "youVersion": "ISA.19.1",
+      "mySword": "Isa_19_1_21_17",
+      "info": "Isa 19-21"
+    },
+    "evening": {
+      "youVersion": "EPH.2.1",
+      "mySword": "Eph_2_1_22",
+      "info": "Eph 2"
+    }
+  },
+  "10-01": {
+    "morning": {
+      "youVersion": "ISA.22.1",
+      "mySword": "Isa_22_1_23_18",
+      "info": "Isa 22-23"
+    },
+    "evening": {
+      "youVersion": "EPH.3.1",
+      "mySword": "Eph_3_1_21",
+      "info": "Eph 3"
+    }
+  },
+  "10-02": {
+    "morning": {
+      "youVersion": "ISA.24.1",
+      "mySword": "Isa_24_1_26_21",
+      "info": "Isa 24-26"
+    },
+    "evening": {
+      "youVersion": "EPH.4.1",
+      "mySword": "Eph_4_1_32",
+      "info": "Eph 4"
+    }
+  },
+  "10-03": {
+    "morning": {
+      "youVersion": "ISA.27.1",
+      "mySword": "Isa_27_1_28_29",
+      "info": "Isa 27-28"
+    },
+    "evening": {
+      "youVersion": "EPH.5.1",
+      "mySword": "Eph_5_1_33",
+      "info": "Eph 5"
+    }
+  },
+  "10-04": {
+    "morning": {
+      "youVersion": "ISA.29.1",
+      "mySword": "Isa_29_1_30_33",
+      "info": "Isa 29-30"
+    },
+    "evening": {
+      "youVersion": "EPH.6.1",
+      "mySword": "Eph_6_1_24",
+      "info": "Eph 6"
+    }
+  },
+  "10-05": {
+    "morning": {
+      "youVersion": "ISA.31.1",
+      "mySword": "Isa_31_1_33_24",
+      "info": "Isa 31-33"
+    },
+    "evening": {
+      "youVersion": "PHI.1.1",
+      "mySword": "Phi_1_1_30",
+      "info": "Phi 1"
+    }
+  },
+  "10-06": {
+    "morning": {
+      "youVersion": "ISA.34.1",
+      "mySword": "Isa_34_1_36_22",
+      "info": "Isa 34-36"
+    },
+    "evening": {
+      "youVersion": "PHI.2.1",
+      "mySword": "Phi_2_1_30",
+      "info": "Phi 2"
+    }
+  },
+  "10-07": {
+    "morning": {
+      "youVersion": "ISA.37.1",
+      "mySword": "Isa_37_1_38_22",
+      "info": "Isa 37-38"
+    },
+    "evening": {
+      "youVersion": "PHI.3.1",
+      "mySword": "Phi_3_1_21",
+      "info": "Phi 3"
+    }
+  },
+  "10-08": {
+    "morning": {
+      "youVersion": "ISA.39.1",
+      "mySword": "Isa_39_1_40_31",
+      "info": "Isa 39-40"
+    },
+    "evening": {
+      "youVersion": "PHI.4.1",
+      "mySword": "Phi_4_1_23",
+      "info": "Phi 4"
+    }
+  },
+  "10-09": {
+    "morning": {
+      "youVersion": "ISA.41.1",
+      "mySword": "Isa_41_1_42_25",
+      "info": "Isa 41-42"
+    },
+    "evening": {
+      "youVersion": "COL.1.1",
+      "mySword": "Col_1_1_29",
+      "info": "Col 1"
+    }
+  },
+  "10-10": {
+    "morning": {
+      "youVersion": "ISA.43.1",
+      "mySword": "Isa_43_1_44_28",
+      "info": "Isa 43-44"
+    },
+    "evening": {
+      "youVersion": "COL.2.1",
+      "mySword": "Col_2_1_23",
+      "info": "Col 2"
+    }
+  },
+  "10-11": {
+    "morning": {
+      "youVersion": "ISA.45.1",
+      "mySword": "Isa_45_1_47_15",
+      "info": "Isa 45-47"
+    },
+    "evening": {
+      "youVersion": "COL.3.1",
+      "mySword": "Col_3_1_25",
+      "info": "Col 3"
+    }
+  },
+  "10-12": {
+    "morning": {
+      "youVersion": "ISA.48.1",
+      "mySword": "Isa_48_1_49_26",
+      "info": "Isa 48-49"
+    },
+    "evening": {
+      "youVersion": "COL.4.1",
+      "mySword": "Col_4_1_18",
+      "info": "Col 4"
+    }
+  },
+  "10-13": {
+    "morning": {
+      "youVersion": "ISA.50.1",
+      "mySword": "Isa_50_1_52_15",
+      "info": "Isa 50-52"
+    },
+    "evening": {
+      "youVersion": "1TH.1.1",
+      "mySword": "1Th_1_1_10",
+      "info": "1Th 1"
+    }
+  },
+  "10-14": {
+    "morning": {
+      "youVersion": "ISA.53.1",
+      "mySword": "Isa_53_1_55_13",
+      "info": "Isa 53-55"
+    },
+    "evening": {
+      "youVersion": "1TH.2.1",
+      "mySword": "1Th_2_1_20",
+      "info": "1Th 2"
+    }
+  },
+  "10-15": {
+    "morning": {
+      "youVersion": "ISA.56.1",
+      "mySword": "Isa_56_1_58_14",
+      "info": "Isa 56-58"
+    },
+    "evening": {
+      "youVersion": "1TH.3.1",
+      "mySword": "1Th_3_1_13",
+      "info": "1Th 3"
+    }
+  },
+  "10-16": {
+    "morning": {
+      "youVersion": "ISA.59.1",
+      "mySword": "Isa_59_1_61_11",
+      "info": "Isa 59-61"
+    },
+    "evening": {
+      "youVersion": "1TH.4.1",
+      "mySword": "1Th_4_1_18",
+      "info": "1Th 4"
+    }
+  },
+  "10-17": {
+    "morning": {
+      "youVersion": "ISA.62.1",
+      "mySword": "Isa_62_1_64_12",
+      "info": "Isa 62-64"
+    },
+    "evening": {
+      "youVersion": "1TH.5.1",
+      "mySword": "1Th_5_1_28",
+      "info": "1Th 5"
+    }
+  },
+  "10-18": {
+    "morning": {
+      "youVersion": "ISA.65.1",
+      "mySword": "Isa_65_1_66_24",
+      "info": "Isa 65-66"
+    },
+    "evening": {
+      "youVersion": "2TH.1.1",
+      "mySword": "2Th_1_1_12",
+      "info": "2Th 1"
+    }
+  },
+  "10-19": {
+    "morning": {
+      "youVersion": "JER.1.1",
+      "mySword": "Jer_1_1_2_37",
+      "info": "Jer 1-2"
+    },
+    "evening": {
+      "youVersion": "2TH.2.1",
+      "mySword": "2Th_2_1_17",
+      "info": "2Th 2"
+    }
+  },
+  "10-20": {
+    "morning": {
+      "youVersion": "JER.3.1",
+      "mySword": "Jer_3_1_4_31",
+      "info": "Jer 3-4"
+    },
+    "evening": {
+      "youVersion": "2TH.3.1",
+      "mySword": "2Th_3_1_18",
+      "info": "2Th 3"
+    }
+  },
+  "10-21": {
+    "morning": {
+      "youVersion": "JER.5.1",
+      "mySword": "Jer_5_1_6_30",
+      "info": "Jer 5-6"
+    },
+    "evening": {
+      "youVersion": "1TI.1.1",
+      "mySword": "1Ti_1_1_20",
+      "info": "1Ti 1"
+    }
+  },
+  "10-22": {
+    "morning": {
+      "youVersion": "JER.7.1",
+      "mySword": "Jer_7_1_8_22",
+      "info": "Jer 7-8"
+    },
+    "evening": {
+      "youVersion": "1TI.2.1",
+      "mySword": "1Ti_2_1_15",
+      "info": "1Ti 2"
+    }
+  },
+  "10-23": {
+    "morning": {
+      "youVersion": "JER.9.1",
+      "mySword": "Jer_9_1_10_25",
+      "info": "Jer 9-10"
+    },
+    "evening": {
+      "youVersion": "1TI.3.1",
+      "mySword": "1Ti_3_1_16",
+      "info": "1Ti 3"
+    }
+  },
+  "10-24": {
+    "morning": {
+      "youVersion": "JER.11.1",
+      "mySword": "Jer_11_1_13_27",
+      "info": "Jer 11-13"
+    },
+    "evening": {
+      "youVersion": "1TI.4.1",
+      "mySword": "1Ti_4_1_16",
+      "info": "1Ti 4"
+    }
+  },
+  "10-25": {
+    "morning": {
+      "youVersion": "JER.14.1",
+      "mySword": "Jer_14_1_16_21",
+      "info": "Jer 14-16"
+    },
+    "evening": {
+      "youVersion": "1TI.5.1",
+      "mySword": "1Ti_5_1_25",
+      "info": "1Ti 5"
+    }
+  },
+  "10-26": {
+    "morning": {
+      "youVersion": "JER.17.1",
+      "mySword": "Jer_17_1_19_15",
+      "info": "Jer 17-19"
+    },
+    "evening": {
+      "youVersion": "1TI.6.1",
+      "mySword": "1Ti_6_1_21",
+      "info": "1Ti 6"
+    }
+  },
+  "10-27": {
+    "morning": {
+      "youVersion": "JER.20.1",
+      "mySword": "Jer_20_1_22_30",
+      "info": "Jer 20-22"
+    },
+    "evening": {
+      "youVersion": "2TI.1.1",
+      "mySword": "2Ti_1_1_18",
+      "info": "2Ti 1"
+    }
+  },
+  "10-28": {
+    "morning": {
+      "youVersion": "JER.23.1",
+      "mySword": "Jer_23_1_24_10",
+      "info": "Jer 23-24"
+    },
+    "evening": {
+      "youVersion": "2TI.2.1",
+      "mySword": "2Ti_2_1_26",
+      "info": "2Ti 2"
+    }
+  },
+  "10-29": {
+    "morning": {
+      "youVersion": "JER.25.1",
+      "mySword": "Jer_25_1_26_24",
+      "info": "Jer 25-26"
+    },
+    "evening": {
+      "youVersion": "2TI.3.1",
+      "mySword": "2Ti_3_1_17",
+      "info": "2Ti 3"
+    }
+  },
+  "10-30": {
+    "morning": {
+      "youVersion": "JER.27.1",
+      "mySword": "Jer_27_1_28_17",
+      "info": "Jer 27-28"
+    },
+    "evening": {
+      "youVersion": "2TI.4.1",
+      "mySword": "2Ti_4_1_22",
+      "info": "2Ti 4"
+    }
+  },
+  "10-31": {
+    "morning": {
+      "youVersion": "JER.29.1",
+      "mySword": "Jer_29_1_30_24",
+      "info": "Jer 29-30"
+    },
+    "evening": {
+      "youVersion": "TIT.1.1",
+      "mySword": "Tit_1_1_16",
+      "info": "Tit 1"
+    }
+  },
+  "11-01": {
+    "morning": {
+      "youVersion": "JER.31.1",
+      "mySword": "Jer_31_1_32_44",
+      "info": "Jer 31-32"
+    },
+    "evening": {
+      "youVersion": "TIT.2.1",
+      "mySword": "Tit_2_1_15",
+      "info": "Tit 2"
+    }
+  },
+  "11-02": {
+    "morning": {
+      "youVersion": "JER.33.1",
+      "mySword": "Jer_33_1_35_19",
+      "info": "Jer 33-35"
+    },
+    "evening": {
+      "youVersion": "TIT.3.1",
+      "mySword": "Tit_3_1_15",
+      "info": "Tit 3"
+    }
+  },
+  "11-03": {
+    "morning": {
+      "youVersion": "JER.36.1",
+      "mySword": "Jer_36_1_37_21",
+      "info": "Jer 36-37"
+    },
+    "evening": {
+      "youVersion": "PHM.1.1",
+      "mySword": "Phm_1_1_25",
+      "info": "Phm"
+    }
+  },
+  "11-04": {
+    "morning": {
+      "youVersion": "JER.38.1",
+      "mySword": "Jer_38_1_39_18",
+      "info": "Jer 38-39"
+    },
+    "evening": {
+      "youVersion": "HEB.1.1",
+      "mySword": "Heb_1_1_14",
+      "info": "Heb 1"
+    }
+  },
+  "11-05": {
+    "morning": {
+      "youVersion": "JER.40.1",
+      "mySword": "Jer_40_1_42_22",
+      "info": "Jer 40-42"
+    },
+    "evening": {
+      "youVersion": "HEB.2.1",
+      "mySword": "Heb_2_1_18",
+      "info": "Heb 2"
+    }
+  },
+  "11-06": {
+    "morning": {
+      "youVersion": "JER.43.1",
+      "mySword": "Jer_43_1_45_5",
+      "info": "Jer 43-45"
+    },
+    "evening": {
+      "youVersion": "HEB.3.1",
+      "mySword": "Heb_3_1_19",
+      "info": "Heb 3"
+    }
+  },
+  "11-07": {
+    "morning": {
+      "youVersion": "JER.46.1",
+      "mySword": "Jer_46_1_48_47",
+      "info": "Jer 46-48"
+    },
+    "evening": {
+      "youVersion": "HEB.4.1",
+      "mySword": "Heb_4_1_16",
+      "info": "Heb 4"
+    }
+  },
+  "11-08": {
+    "morning": {
+      "youVersion": "JER.49.1",
+      "mySword": "Jer_49_1_50_46",
+      "info": "Jer 49-50"
+    },
+    "evening": {
+      "youVersion": "HEB.5.1",
+      "mySword": "Heb_5_1_14",
+      "info": "Heb 5"
+    }
+  },
+  "11-09": {
+    "morning": {
+      "youVersion": "JER.51.1",
+      "mySword": "Jer_51_1_52_34",
+      "info": "Jer 51-52"
+    },
+    "evening": {
+      "youVersion": "HEB.6.1",
+      "mySword": "Heb_6_1_20",
+      "info": "Heb 6"
+    }
+  },
+  "11-10": {
+    "morning": {
+      "youVersion": "LAM.1.1",
+      "mySword": "Lam_1_1_2_22",
+      "info": "Lam 1-2"
+    },
+    "evening": {
+      "youVersion": "HEB.7.1",
+      "mySword": "Heb_7_1_28",
+      "info": "Heb 7"
+    }
+  },
+  "11-11": {
+    "morning": {
+      "youVersion": "LAM.3.1",
+      "mySword": "Lam_3_1_5_22",
+      "info": "Lam 3-5"
+    },
+    "evening": {
+      "youVersion": "HEB.8.1",
+      "mySword": "Heb_8_1_13",
+      "info": "Heb 8"
+    }
+  },
+  "11-12": {
+    "morning": {
+      "youVersion": "EZK.1.1",
+      "mySword": "Eze_1_1_3_27",
+      "info": "Eze 1-3"
+    },
+    "evening": {
+      "youVersion": "HEB.9.1",
+      "mySword": "Heb_9_1_28",
+      "info": "Heb 9"
+    }
+  },
+  "11-13": {
+    "morning": {
+      "youVersion": "EZK.4.1",
+      "mySword": "Eze_4_1_6_14",
+      "info": "Eze 4-6"
+    },
+    "evening": {
+      "youVersion": "HEB.10.1",
+      "mySword": "Heb_10_1_23",
+      "info": "Heb 10:1-23"
+    }
+  },
+  "11-14": {
+    "morning": {
+      "youVersion": "EZK.7.1",
+      "mySword": "Eze_7_1_9_11",
+      "info": "Eze 7-9"
+    },
+    "evening": {
+      "youVersion": "HEB.10.24",
+      "mySword": "Heb_10_24_39",
+      "info": "Heb 10:24-39"
+    }
+  },
+  "11-15": {
+    "morning": {
+      "youVersion": "EZK.10.1",
+      "mySword": "Eze_10_1_12_28",
+      "info": "Eze 10-12"
+    },
+    "evening": {
+      "youVersion": "HEB.11.1",
+      "mySword": "Heb_11_1_19",
+      "info": "Heb 11:1-19"
+    }
+  },
+  "11-16": {
+    "morning": {
+      "youVersion": "EZK.13.1",
+      "mySword": "Eze_13_1_15_8",
+      "info": "Eze 13-15"
+    },
+    "evening": {
+      "youVersion": "HEB.11.20",
+      "mySword": "Heb_11_20_40",
+      "info": "Heb 11:20-40"
+    }
+  },
+  "11-17": {
+    "morning": {
+      "youVersion": "EZK.16.1",
+      "mySword": "Eze_16_1_63",
+      "info": "Eze 16"
+    },
+    "evening": {
+      "youVersion": "HEB.12.1",
+      "mySword": "Heb_12_1_29",
+      "info": "Heb 12"
+    }
+  },
+  "11-18": {
+    "morning": {
+      "youVersion": "EZK.17.1",
+      "mySword": "Eze_17_1_19_14",
+      "info": "Eze 17-19"
+    },
+    "evening": {
+      "youVersion": "HEB.13.1",
+      "mySword": "Heb_13_1_25",
+      "info": "Heb 13"
+    }
+  },
+  "11-19": {
+    "morning": {
+      "youVersion": "EZK.20.1",
+      "mySword": "Eze_20_1_21_32",
+      "info": "Eze 20-21"
+    },
+    "evening": {
+      "youVersion": "JAM.1.1",
+      "mySword": "Jam_1_1_27",
+      "info": "Jam 1"
+    }
+  },
+  "11-20": {
+    "morning": {
+      "youVersion": "EZK.22.1",
+      "mySword": "Eze_22_1_23_49",
+      "info": "Eze 22-23"
+    },
+    "evening": {
+      "youVersion": "JAM.2.1",
+      "mySword": "Jam_2_1_26",
+      "info": "Jam 2"
+    }
+  },
+  "11-21": {
+    "morning": {
+      "youVersion": "EZK.24.1",
+      "mySword": "Eze_24_1_26_21",
+      "info": "Eze 24-26"
+    },
+    "evening": {
+      "youVersion": "JAM.3.1",
+      "mySword": "Jam_3_1_18",
+      "info": "Jam 3"
+    }
+  },
+  "11-22": {
+    "morning": {
+      "youVersion": "EZK.27.1",
+      "mySword": "Eze_27_1_28_26",
+      "info": "Eze 27-28"
+    },
+    "evening": {
+      "youVersion": "JAM.4.1",
+      "mySword": "Jam_4_1_17",
+      "info": "Jam 4"
+    }
+  },
+  "11-23": {
+    "morning": {
+      "youVersion": "EZK.29.1",
+      "mySword": "Eze_29_1_31_18",
+      "info": "Eze 29-31"
+    },
+    "evening": {
+      "youVersion": "JAM.5.1",
+      "mySword": "Jam_5_1_20",
+      "info": "Jam 5"
+    }
+  },
+  "11-24": {
+    "morning": {
+      "youVersion": "EZK.32.1",
+      "mySword": "Eze_32_1_33_33",
+      "info": "Eze 32-33"
+    },
+    "evening": {
+      "youVersion": "1PE.1.1",
+      "mySword": "1Pe_1_1_25",
+      "info": "1Pe 1"
+    }
+  },
+  "11-25": {
+    "morning": {
+      "youVersion": "EZK.34.1",
+      "mySword": "Eze_34_1_35_15",
+      "info": "Eze 34-35"
+    },
+    "evening": {
+      "youVersion": "1PE.2.1",
+      "mySword": "1Pe_2_1_25",
+      "info": "1Pe 2"
+    }
+  },
+  "11-26": {
+    "morning": {
+      "youVersion": "EZK.36.1",
+      "mySword": "Eze_36_1_37_28",
+      "info": "Eze 36-37"
+    },
+    "evening": {
+      "youVersion": "1PE.3.1",
+      "mySword": "1Pe_3_1_22",
+      "info": "1Pe 3"
+    }
+  },
+  "11-27": {
+    "morning": {
+      "youVersion": "EZK.38.1",
+      "mySword": "Eze_38_1_39_29",
+      "info": "Eze 38-39"
+    },
+    "evening": {
+      "youVersion": "1PE.4.1",
+      "mySword": "1Pe_4_1_19",
+      "info": "1Pe 4"
+    }
+  },
+  "11-28": {
+    "morning": {
+      "youVersion": "EZK.40.1",
+      "mySword": "Eze_40_1_49",
+      "info": "Eze 40"
+    },
+    "evening": {
+      "youVersion": "1PE.5.1",
+      "mySword": "1Pe_5_1_14",
+      "info": "1Pe 5"
+    }
+  },
+  "11-29": {
+    "morning": {
+      "youVersion": "EZK.41.1",
+      "mySword": "Eze_41_1_42_20",
+      "info": "Eze 41-42"
+    },
+    "evening": {
+      "youVersion": "2PE.1.1",
+      "mySword": "2Pe_1_1_21",
+      "info": "2Pe 1"
+    }
+  },
+  "11-30": {
+    "morning": {
+      "youVersion": "EZK.43.1",
+      "mySword": "Eze_43_1_44_31",
+      "info": "Eze 43-44"
+    },
+    "evening": {
+      "youVersion": "2PE.2.1",
+      "mySword": "2Pe_2_1_22",
+      "info": "2Pe 2"
+    }
+  },
+  "12-01": {
+    "morning": {
+      "youVersion": "EZK.45.1",
+      "mySword": "Eze_45_1_46_24",
+      "info": "Eze 45-46"
+    },
+    "evening": {
+      "youVersion": "2PE.3.1",
+      "mySword": "2Pe_3_1_18",
+      "info": "2Pe 3"
+    }
+  },
+  "12-02": {
+    "morning": {
+      "youVersion": "EZK.47.1",
+      "mySword": "Eze_47_1_48_35",
+      "info": "Eze 47-48"
+    },
+    "evening": {
+      "youVersion": "1JO.1.1",
+      "mySword": "1Jo_1_1_10",
+      "info": "1Jo 1"
+    }
+  },
+  "12-03": {
+    "morning": {
+      "youVersion": "DAN.1.1",
+      "mySword": "Dan_1_1_2_49",
+      "info": "Dan 1-2"
+    },
+    "evening": {
+      "youVersion": "1JN.2.1",
+      "mySword": "1Jo_2_1_29",
+      "info": "1Jo 2"
+    }
+  },
+  "12-04": {
+    "morning": {
+      "youVersion": "DAN.3.1",
+      "mySword": "Dan_3_1_4_37",
+      "info": "Dan 3-4"
+    },
+    "evening": {
+      "youVersion": "1JN.3.1",
+      "mySword": "1Jo_3_1_24",
+      "info": "1Jo 3"
+    }
+  },
+  "12-05": {
+    "morning": {
+      "youVersion": "DAN.5.1",
+      "mySword": "Dan_5_1_6_28",
+      "info": "Dan 5-6"
+    },
+    "evening": {
+      "youVersion": "1JN.4.1",
+      "mySword": "1Jo_4_1_21",
+      "info": "1Jo 4"
+    }
+  },
+  "12-06": {
+    "morning": {
+      "youVersion": "DAN.7.1",
+      "mySword": "Dan_7_1_8_27",
+      "info": "Dan 7-8"
+    },
+    "evening": {
+      "youVersion": "1JN.5.1",
+      "mySword": "1Jo_5_1_21",
+      "info": "1Jo 5"
+    }
+  },
+  "12-07": {
+    "morning": {
+      "youVersion": "DAN.9.1",
+      "mySword": "Dan_9_1_10_21",
+      "info": "Dan 9-10"
+    },
+    "evening": {
+      "youVersion": "2JN.1.1",
+      "mySword": "2Jo_1_1_13",
+      "info": "2Jo"
+    }
+  },
+  "12-08": {
+    "morning": {
+      "youVersion": "DAN.11.1",
+      "mySword": "Dan_11_1_12_13",
+      "info": "Dan 11-12"
+    },
+    "evening": {
+      "youVersion": "3JN.1.1",
+      "mySword": "3Jo_1_1_14",
+      "info": "3Jo"
+    }
+  },
+  "12-09": {
+    "morning": {
+      "youVersion": "HOS.1.1",
+      "mySword": "Hos_1_1_4_19",
+      "info": "Hos 1-4"
+    },
+    "evening": {
+      "youVersion": "JUD.1.1",
+      "mySword": "Jud_1_1_25",
+      "info": "Jud"
+    }
+  },
+  "12-10": {
+    "morning": {
+      "youVersion": "HOS.5.1",
+      "mySword": "Hos_5_1_8_14",
+      "info": "Hos 5-8"
+    },
+    "evening": {
+      "youVersion": "REV.1.1",
+      "mySword": "Rev_1_1_20",
+      "info": "Rev 1"
+    }
+  },
+  "12-11": {
+    "morning": {
+      "youVersion": "HOS.9.1",
+      "mySword": "Hos_9_1_11_12",
+      "info": "Hos 9-11"
+    },
+    "evening": {
+      "youVersion": "REV.2.1",
+      "mySword": "Rev_2_1_29",
+      "info": "Rev 2"
+    }
+  },
+  "12-12": {
+    "morning": {
+      "youVersion": "HOS.12.1",
+      "mySword": "Hos_12_1_14_9",
+      "info": "Hos 12-14"
+    },
+    "evening": {
+      "youVersion": "REV.3.1",
+      "mySword": "Rev_3_1_22",
+      "info": "Rev 3"
+    }
+  },
+  "12-13": {
+    "morning": {
+      "youVersion": "JOL.1.1",
+      "mySword": "Joe_1_1_3_21",
+      "info": "Joe"
+    },
+    "evening": {
+      "youVersion": "REV.4.1",
+      "mySword": "Rev_4_1_11",
+      "info": "Rev 4"
+    }
+  },
+  "12-14": {
+    "morning": {
+      "youVersion": "AMO.1.1",
+      "mySword": "Amo_1_1_3_15",
+      "info": "Amo 1-3"
+    },
+    "evening": {
+      "youVersion": "REV.5.1",
+      "mySword": "Rev_5_1_14",
+      "info": "Rev 5"
+    }
+  },
+  "12-15": {
+    "morning": {
+      "youVersion": "AMO.4.1",
+      "mySword": "Amo_4_1_6_14",
+      "info": "Amo 4-6"
+    },
+    "evening": {
+      "youVersion": "REV.6.1",
+      "mySword": "Rev_6_1_17",
+      "info": "Rev 6"
+    }
+  },
+  "12-16": {
+    "morning": {
+      "youVersion": "AMO.7.1",
+      "mySword": "Amo_7_1_9_15",
+      "info": "Amo 7-9"
+    },
+    "evening": {
+      "youVersion": "REV.7.1",
+      "mySword": "Rev_7_1_17",
+      "info": "Rev 7"
+    }
+  },
+  "12-17": {
+    "morning": {
+      "youVersion": "OBA.1.1",
+      "mySword": "Oba_1_1_21",
+      "info": "Oba"
+    },
+    "evening": {
+      "youVersion": "REV.8.1",
+      "mySword": "Rev_8_1_13",
+      "info": "Rev 8"
+    }
+  },
+  "12-18": {
+    "morning": {
+      "youVersion": "JON.1.1",
+      "mySword": "Jon_1_1_4_11",
+      "info": "Jon"
+    },
+    "evening": {
+      "youVersion": "REV.9.1",
+      "mySword": "Rev_9_1_21",
+      "info": "Rev 9"
+    }
+  },
+  "12-19": {
+    "morning": {
+      "youVersion": "MIC.1.1",
+      "mySword": "Mic_1_1_3_12",
+      "info": "Mic 1-3"
+    },
+    "evening": {
+      "youVersion": "REV.10.1",
+      "mySword": "Rev_10_1_11",
+      "info": "Rev 10"
+    }
+  },
+  "12-20": {
+    "morning": {
+      "youVersion": "MIC.4.1",
+      "mySword": "Mic_4_1_5_15",
+      "info": "Mic 4-5"
+    },
+    "evening": {
+      "youVersion": "REV.11.1",
+      "mySword": "Rev_11_1_19",
+      "info": "Rev 11"
+    }
+  },
+  "12-21": {
+    "morning": {
+      "youVersion": "MIC.6.1",
+      "mySword": "Mic_6_1_7_20",
+      "info": "Mic 6-7"
+    },
+    "evening": {
+      "youVersion": "REV.12.1",
+      "mySword": "Rev_12_1_17",
+      "info": "Rev 12"
+    }
+  },
+  "12-22": {
+    "morning": {
+      "youVersion": "NAH.1.1",
+      "mySword": "Nah_1_1_3_19",
+      "info": "Nah"
+    },
+    "evening": {
+      "youVersion": "REV.13.1",
+      "mySword": "Rev_13_1_18",
+      "info": "Rev 13"
+    }
+  },
+  "12-23": {
+    "morning": {
+      "youVersion": "HAB.1.1",
+      "mySword": "Hab_1_1_3_19",
+      "info": "Hab"
+    },
+    "evening": {
+      "youVersion": "REV.14.1",
+      "mySword": "Rev_14_1_20",
+      "info": "Rev 14"
+    }
+  },
+  "12-24": {
+    "morning": {
+      "youVersion": "ZEP.1.1",
+      "mySword": "Zep_1_1_3_20",
+      "info": "Zep"
+    },
+    "evening": {
+      "youVersion": "REV.15.1",
+      "mySword": "Rev_15_1_8",
+      "info": "Rev 15"
+    }
+  },
+  "12-25": {
+    "morning": {
+      "youVersion": "HAG.1.1",
+      "mySword": "Hag_1_1_2_23",
+      "info": "Hag"
+    },
+    "evening": {
+      "youVersion": "REV.16.1",
+      "mySword": "Rev_16_1_21",
+      "info": "Rev 16"
+    }
+  },
+  "12-26": {
+    "morning": {
+      "youVersion": "ZEC.1.1",
+      "mySword": "Zec_1_1_3_20",
+      "info": "Zec 1-3"
+    },
+    "evening": {
+      "youVersion": "REV.17.1",
+      "mySword": "Rev_17_1_18",
+      "info": "Rev 17"
+    }
+  },
+  "12-27": {
+    "morning": {
+      "youVersion": "ZEC.4.1",
+      "mySword": "Zec_4_1_6_15",
+      "info": "Zec 4-6"
+    },
+    "evening": {
+      "youVersion": "REV.18.1",
+      "mySword": "Rev_18_1_24",
+      "info": "Rev 18"
+    }
+  },
+  "12-28": {
+    "morning": {
+      "youVersion": "ZEC.7.1",
+      "mySword": "Zec_7_1_9_17",
+      "info": "Zec 7-9"
+    },
+    "evening": {
+      "youVersion": "REV.19.1",
+      "mySword": "Rev_19_1_21",
+      "info": "Rev 19"
+    }
+  },
+  "12-29": {
+    "morning": {
+      "youVersion": "ZEC.10.1",
+      "mySword": "Zec_10_1_12_14",
+      "info": "Zec 10-12"
+    },
+    "evening": {
+      "youVersion": "REV.20.1",
+      "mySword": "Rev_20_1_15",
+      "info": "Rev 20"
+    }
+  },
+  "12-30": {
+    "morning": {
+      "youVersion": "ZEC.13.1",
+      "mySword": "Zec_13_1_14_21",
+      "info": "Zec 13-14"
+    },
+    "evening": {
+      "youVersion": "REV.21.1",
+      "mySword": "Rev_21_1_27",
+      "info": "Rev 21"
+    }
+  },
+  "12-31": {
+    "morning": {
+      "youVersion": "MAL.1.1",
+      "mySword": "Mal_1_1_4_6",
+      "info": "Mal"
+    },
+    "evening": {
+      "youVersion": "REV.22.1",
+      "mySword": "Rev_22_1_21",
+      "info": "Rev 22"
+    }
+  }
+}
